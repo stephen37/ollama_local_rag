@@ -27,8 +27,8 @@ all_splits = text_splitter.split_documents(data)
 embeddings = JinaEmbeddings(
     jina_api_key=JINA_AI_API_KEY, model_name="jina-embeddings-v2-base-en"
 )
-# with SuppressStdout():
 vectorstore = Milvus.from_documents(documents=all_splits, embedding=embeddings)
+
 
 def run_query() -> None:
     llm = Ollama(
@@ -49,5 +49,5 @@ def run_query() -> None:
 
 
 if __name__ == "__main__":
-  while True:
-    run_query()
+    while True:
+        run_query()
