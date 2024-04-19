@@ -17,8 +17,8 @@ Additionally, you will need:
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://yourrepository.com/path/to/repo.git
-cd repo-directory
+git clone git@github.com:stephen37/ollama_local_rag.git
+cd ollama_local_rag
 ```
 2. Set Up Environment Variables:
 Create a .env file in the root directory and add your Jina AI API key:
