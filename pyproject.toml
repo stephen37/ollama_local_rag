@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ollamas-local-rag"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+langchain = "^0.1.16"
+pymilvus = "2.4.0"
+ollama = "^0.1.8"
+langchain-community = "^0.0.33"
+scipy = "^1.13.0"
+milvus-model = "^0.2.0"
+chromadb = "^0.4.24"
+pypdf = "^4.2.0"
+ruff = "^0.4.0"
+langchainhub = "^0.1.15"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
