@@ -16,6 +16,7 @@ milvus-model = "^0.2.0"
 pypdf = "^4.2.0"
 ruff = "^0.4.0"
 langchainhub = "^0.1.15"
+langchain-experimental = "^0.0.57"
 
 
 [build-system]
