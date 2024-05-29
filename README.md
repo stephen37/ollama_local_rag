@@ -1,7 +1,6 @@
 # Local RAG Application with Ollama, Langchain, and Milvus
 
-This repository contains code for a running a local Retrieval Augmented Generation (RAG) application. It uses Ollama for LLM operations, Langchain for orchestration, and Milvus for vector storage.
-I am using Llama 3 as the LLM at the moment. 
+This repository contains code for running local Retrieval Augmented Generation (RAG) applications. It uses Ollama for LLM operations, Langchain for orchestration, and [Milvus](https://github.com/milvus-io/milvus) for vector storage, it is using Llama3 for the LLM.
 
 ## Prerequisites
 
@@ -20,27 +19,24 @@ Additionally, you will need:
 git clone git@github.com:stephen37/ollama_local_rag.git
 cd ollama_local_rag
 ```
-2. Set Up Environment Variables:
-Create a .env file in the root directory and add your Jina AI API key:
-```
-JINA_AI_API_KEY=your_jina_ai_api_key_here
-```
-3. Install dependencies 
+2. Install dependencies 
 ```bash
 poetry install
 ```
-4. Start Milvus 
+3. Start Milvus with Docker
 ```bash
 docker-compose up -d
 ```
 
 ## Usage
-To run the application, execute the following command in your terminal:
+To run the different applications, execute the following command in your terminal:
 
 ```bash
-python rag_ollama.py
+python <file_name.py>
 ```
 You will be prompted to enter queries, and the system will retrieve relevant answers based on the data processed.
+
+For example, if you want to interact with the data from the French parliament, you can run `python rag_french_parliament.py` 
 
 --- 
 Feel free to check out [Milvus](https://github.com/milvus-io/milvus), and share your experiences with the community by joining our [Discord](https://discord.gg/FG6hMJStWu).
