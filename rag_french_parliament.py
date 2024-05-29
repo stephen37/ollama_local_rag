@@ -1,8 +1,6 @@
-from langchain_community.document_loaders import UnstructuredXMLLoader, DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import UnstructuredXMLLoader
 from langchain.chains import RetrievalQA
 from langchain.vectorstores.milvus import Milvus
-from langchain_community.embeddings.jina import JinaEmbeddings
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 from langchain.callbacks.manager import CallbackManager
