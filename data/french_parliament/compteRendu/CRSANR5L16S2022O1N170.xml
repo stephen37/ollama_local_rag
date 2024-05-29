@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L16S2022O1N170</uid>
+  <seanceRef>RUANR5L16S2022IDS26178</seanceRef>
+  <sessionRef>SCR5A2022O1</sessionRef>
+  <metadonnees>
+    <dateSeance>20220629150000000</dateSeance>
+    <dateSeanceJour>mercredi 29 juin 2022</dateSeanceJour>
+    <numSeanceJour>Unique</numSeanceJour>
+    <numSeance>2</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>16</legislature>
+    <session>Session ordinaire 2021-2022</session>
+    <nomFichierJo>20220170</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2022-07-19T16:33:19.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2805390">Présidence de Mme Yaël Braun-Pivet</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2805394">
+          <intitule>Élection des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2806029">
+          <intitule>Installation du bureau</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Séance du mercredi 29 juin 2022</journee>
+      <session>Session ordinaire 2021-2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2061774" ordre_absolu_seance="1" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2805390" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Yaël Braun-Pivet</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2061775" ordre_absolu_seance="2" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2805391" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="176.15">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2061776" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2805392" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061778" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2805394" valeur="">
+      <orateurs/>
+      <texte>Élection des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061779" ordre_absolu_seance="6" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2805395" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="194.84">L’ordre du jour appelle l’élection des six vice-présidents, des trois questeurs et des douze secrétaires de l’Assemblée nationale.<br/>Pour les fonctions de vice-président, j’ai reçu huit candidatures : celle de M. Sébastien Chenu pour le groupe Rassemblement national, celle de Mme Caroline Fiat pour le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale, celle de Mme Élodie Jacquier-Laforge pour le groupe Démocrate (MODEM et indépendants), celle de Mme Hélène Laporte pour le groupe Rassemblement national, celle de M. Benjamin Lucas pour le groupe Écologiste-NUPES, celle de Mme Naïma Moutchou pour le groupe Horizons et apparentés, celle de Mme Valérie Rabault pour le groupe Socialistes et apparentés (membre de l’intergroupe NUPES), celle de Mme Sandrine Rousseau pour le groupe Écologiste-NUPES.<br/>Le nombre des candidats étant supérieur au nombre de sièges à pourvoir, il y a lieu de procéder à un scrutin.<br/>Je rappelle que le scrutin est secret et qu’il n’y a pas de délégation de vote.<br/>Le scrutin sera dépouillé par quatre scrutateurs titulaires et deux scrutateurs suppléants dont je vais tirer au sort les noms.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061784" ordre_absolu_seance="11" code_grammaire="ELECTION_VP_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2805400" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au tirage au sort.)</italique>
+        </texte>
+      </paragraphe>
+      <interExtraction nom_orateur="" id_acteur="PA0" id_nomination_oe="0" id_nomination_op="0" id_mandat="0">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061785" ordre_absolu_seance="12" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2805401" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>721908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="300.25">Sont désignés scrutateurs titulaires : M. Guillaume Garot, M. Pierre-Henri Dumont, Mme Nicole Dubré-Chirat et M. Johnny Hajjar.<br/>Sont désignés scrutateurs suppléants : M. Fabien Di Filippo et M. Thomas Ménagé.<br/>Drôle de parité, n’est-ce pas ?<br/>Le vote va se dérouler dans les salles voisines de l’hémicycle. Des bulletins imprimés sont à votre disposition. Toutefois, je vous indique que les bulletins manuscrits sont également valables. Ces bulletins devront être mis dans l’urne sous enveloppe. Je rappelle enfin que seuls sont valables les suffrages exprimés dans les enveloppes ne contenant pas plus de six noms au total.<br/>Le scrutin est ouvert pour quarante-cinq minutes.<br/> Sa clôture sera annoncée par quatre sonneries.</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2061790" ordre_absolu_seance="17" code_grammaire="ELECTION_VP_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2805406" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le scrutin est ouvert à quinze heures cinq.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2061791" ordre_absolu_seance="18" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="0" id_syceron="2805895" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2061792" ordre_absolu_seance="19" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2805896" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="333.41">La séance est suspendue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2061793" ordre_absolu_seance="20" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2805897" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue à quinze heures cinq, est reprise à dix-sept heures dix.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2061794" ordre_absolu_seance="21" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2805898" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="7932.01">La séance est reprise.<br/>Voici les résultats du scrutin pour l’élection des vice-présidents :<br/>Nombre de votants : 551<br/>Bulletins blancs ou nuls : 15<br/>Suffrages exprimés : 536<br/>Majorité absolue : 269<br/>Ont obtenu :<br/>M. Sébastien Chenu : 290 voix <italique>(Applaudissements.)</italique><br/>Mme Caroline Fiat : 297 voix <italique>(Applaudissements.)</italique><br/> Mme Élodie Jacquier-Laforge : 373 voix <italique>(Applaudissements.)</italique><br/> Mme Hélène Laporte : 284 voix <italique>(Applaudissements.)</italique><br/> M. Benjamin Lucas : 32 voix <italique>(Applaudissements sur quelques bancs.)</italique><br/> Mme Naïma Moutchou : 373 voix <italique>(Applaudissements.)</italique><br/> Mme Valérie Rabault : 367 voix <italique>(Applaudissements.)</italique><br/> Mme Sandrine Rousseau : 29 voix <italique>(Applaudissements sur quelques bancs.)</italique><br/> Autres suffrages exprimés : 12.<br/>Mme Valérie Rabault, Mme Élodie Jacquier-Laforge, Mme Naïma Moutchou, Mme Caroline Fiat, M. Sébastien Chenu, Mme Hélène Laporte ayant obtenu la majorité absolue des suffrages exprimés, je les proclame, dans cet ordre, vice-présidents de l’Assemblée nationale. <italique>(Applaudissements sur de nombreux bancs.)</italique><br/>Mme Valérie Rabault sera la première vice-présidente, puisqu’elle est membre de l’opposition.<br/>Pour les fonctions de questeur, qui feront l’objet du prochain vote, j’ai reçu quatre candidatures pour les trois postes à pourvoir : celle de M. Éric Ciotti pour le groupe Les Républicains, celle de Mme Marie Guévenoux pour le groupe Renaissance, celle de M. Bastien Lachaud pour le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale et celle de M. Éric Woerth pour le groupe Renaissance.<br/>Le nombre de candidats étant supérieur aux nombres de sièges à pourvoir, il y a lieu de procéder à un scrutin.<br/>Le scrutin est ouvert pour quarante-cinq minutes. Sa clôture sera annoncée par quatre sonneries.<br/> <italique>(Le scrutin est ouvert à dix-sept heures quinze.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2061801" ordre_absolu_seance="28" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="0" id_syceron="2805647" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2061802" ordre_absolu_seance="29" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2805648" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8088.56">La séance est suspendue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2061803" ordre_absolu_seance="30" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2805649" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue à dix-sept heures quinze, est reprise à dix-huit heures trente.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2061804" ordre_absolu_seance="31" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2805650" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="8100.21">La séance est reprise.<br/>Voici le résultat du scrutin pour l’élection des questeurs.<br/>Nombre de votants : 544<br/> Bulletins blancs ou nuls : 12<br/> Nombre de suffrages exprimés : 532<br/> Majorité absolue : 267<br/> Ont obtenu :<br/> M. Éric Ciotti : 367 voix <italique>(Applaudissements.)</italique><br/> Mme Marie Guévenoux : 378 voix <italique>(Applaudissements.)</italique><br/> M. Bastien Lachaud : 158 voix <italique>(Applaudissements.)</italique><br/> M. Éric Woerth : 356 voix <italique>(Applaudissements.)</italique><br/>Mme Marie Guévenoux, M. Éric Ciotti et M. Éric Woerth ayant obtenu la majorité absolue des suffrages exprimés, je les proclame questeurs de l’Assemblée nationale. <italique>(Applaudissements.)</italique> Mme Marie Guévenoux occupera le poste de premier questeur. <italique>(Mêmes mouvements.)</italique> J’adresse mes félicitations aux trois nouveaux questeurs.<br/>Pour les fonctions de secrétaire, je suis saisie de dix-sept candidatures : M. Bruno Bilde pour le groupe Rassemblement national, M. Christophe Blanchet pour le groupe Démocrate (MODEM et indépendants), Mme Soumya Bourouaha pour le groupe Gauche démocrate et républicaine-NUPES, Mme Edwige Diaz pour le groupe Rassemblement national, M. Yannick Favennec-Bécot pour le groupe Horizons et apparentés, M. Philippe Gosselin pour le groupe Les Républicains, Mme Caroline Janvier pour le groupe Renaissance, M. Hubert Julien-Laferrière pour le groupe Écologiste-NUPES, Mme Sarah Legrain pour le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale, M. Frédéric Mathieu pour le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale, M. Pierre Morel-À-L’Huissier pour le groupe Libertés, indépendants, outre-mer et territoires, Mme Danièle Obono pour le groupe La France insoumise-Nouvelle Union populaire, écologique et sociale, Mme Claire Pitollat pour le groupe Renaissance, M. Rémy Rebeyrotte pour le groupe Renaissance, Mme Sandrine Rousseau pour le groupe Écologiste-NUPES, M. Jean Terlier pour le groupe Renaissance et Mme Laurence Vichnievsky pour le groupe Démocrate (MODEM et indépendants).<br/>Le nombre de candidats étant supérieur au nombre de sièges à pourvoir, il y a lieu de procéder à un scrutin. Celui-ci se déroulera à bulletins secrets, sans délégation de vote ; seront élus au premier tour, dans l’ordre des suffrages, les candidats qui auront obtenu la majorité absolue des suffrages exprimés.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2061810" ordre_absolu_seance="37" code_grammaire="ELECTION_VP_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2805894" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le scrutin est ouvert à dix-huit heures trente-cinq.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2061811" ordre_absolu_seance="38" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="0" id_syceron="2806012" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2061812" ordre_absolu_seance="39" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2806013" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="12821.39">La séance est suspendue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2061813" ordre_absolu_seance="40" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2806014" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue à dix-huit heures trente-cinq, est reprise à vingt heures dix.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2061814" ordre_absolu_seance="41" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2806015" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="12850.59">La séance est reprise.<br/>Voici le résultat du scrutin pour l’élection des secrétaires de l’Assemblée nationale.<br/>Nombre de votants : 517<br/>Bulletins blancs ou nuls : 7<br/>Suffrages exprimés : 510<br/>Majorité absolue : 256<br/>Ont obtenu :<br/>M. Bruno Bilde : 118 voix<br/>M. Christophe Blanchet : 356 voix<br/>Mme Soumya Bourouaha  : 359 voix<br/> Mme Edwige Diaz : 116 voix<br/> M. Yannick Favennec-Bécot : 349 voix<br/> M. Philippe Gosselin : 363 voix<br/> Mme Caroline Janvier : 357 voix<br/> M. Hubert Julien-Laferrière  : 124 voix<br/> Mme Sarah Legrain : 128 voix<br/> M. Frédéric Mathieu : 180 voix<br/> M. Pierre Morel-À-L’Huissier : 352 voix<br/> Mme Danièle Obono : 127 voix<br/> Mme Claire Pitollat : 354 voix<br/> M. Rémy Rebeyrotte : 316 voix<br/> Mme Sandrine Rousseau : 93 voix<br/> M. Jean Terlier : 355 voix<br/> Mme Laurence Vichnievsky : 353 voix<br/> Autres suffrages : 2 voix.<br/>M. Christophe Blanchet, Mme Soumia Bourouaha, M. Yannick Favennec-Bécot, M. Philippe Gosselin, Mme Caroline Janvier, M. Pierre Morel-À-L’Huissier, Mme Claire Pitollat, M. Rémy Rebeyrotte, M. Jean Terlier et Mme Laurence Vichnievsky ayant obtenu la majorité absolue des suffrages exprimés, je les proclame secrétaires de l’Assemblée nationale. Bravo à eux ! <italique>(Applaudissements.)</italique><br/>Il y a lieu de procéder à un deuxième tour de scrutin pour deux sièges de secrétaires qu’il reste à pourvoir. Je reste saisie de sept candidatures, celles de M. Bruno Bilde, Mme Edwige Diaz, M. Hubert Julien-Laferrière, Mme Sarah Legrain, M. Frédéric Mathieu, Mme Danièle Obono et Mme Sandrine Rousseau. Ces candidatures étant maintenues, nous allons procéder immédiatement au deuxième tour du scrutin. Je vous propose de déclarer le scrutin clos dans vingt minutes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2061818" ordre_absolu_seance="45" id_acteur="PA331582" id_mandat="PM796455" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2806019" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Philippe Vigier</nom>
+            <id>331582</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="18817.77">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2061818" ordre_absolu_seance="46" code_grammaire="ELECTION_VP_1_20" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2806038" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Le scrutin est ouvert à vingt heures quinze.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2061819" ordre_absolu_seance="47" code_grammaire="SUSP_SEANCE_1_1" code_style="Suspension rappel" code_parole="" sommaire="0" id_syceron="2806021" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Suspension et reprise de la séance</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2061820" ordre_absolu_seance="48" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2806022" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="18922.67">La séance est suspendue.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2061821" ordre_absolu_seance="49" code_grammaire="SUSP_SEANCE_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2806023" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance, suspendue à vingt heures quinze, est reprise à vingt et une heures.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2061822" ordre_absolu_seance="50" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="SUSP_SEANCE_2_3" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2806024" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21766.21">La séance est reprise.<br/>Voici les résultats du deuxième tour de scrutin pour l’élection des secrétaires :<br/>Nombre de votants : 282<br/>Bulletins blancs ou nuls : 34<br/>Nombre de suffrages exprimés : 248<br/>Majorité absolue : 125<br/>Ont obtenu :<br/>M. Bruno Bilde : 102 voix<br/>Mme Edwige Diaz : 94 voix<br/>M. Hubert Julien-Laferrière : 140 voix<br/>Mme Sarah Legrain : 7 voix<br/>M. Frédéric Mathieu : 3 voix<br/>Mme Danièle Obono : 128 voix<br/>Mme Sandrine Rousseau : 4 voix.<br/>M. Hubert Julien-Laferrière et Mme Danièle Obono ayant obtenu la majorité absolue des suffrages exprimés, je les proclame secrétaires de l’Assemblée nationale.</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="5" id_preparation="2061827" ordre_absolu_seance="55" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2806029" valeur="">
+      <orateurs/>
+      <texte>Installation du bureau</texte>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2061828" ordre_absolu_seance="56" id_acteur="PA721908" id_mandat="PM797568" id_nomination_oe="-1" id_nomination_op="PM800479" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PRESIDE_DISCOURS_1_10" sommaire="0" id_syceron="2806030" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>721908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="21769.38">Je constate que le bureau de l’Assemblée nationale est constitué par les votes successifs auxquels nous avons procédé aujourd’hui.<br/>Sa composition sera notifiée au Président de la République, à la Première ministre et au président du Sénat, et publiée au <italique>Journal officiel</italique>.<br/>Il se réunira demain, jeudi 30 juin 2022, à quinze heures. <italique>(Applaudissements sur plusieurs bancs.)</italique><br/>La séance est levée.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2061832" ordre_absolu_seance="58" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2806034" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est levée à vingt et une heures cinq.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="2" ordinal_prise="5" id_preparation="2061833" ordre_absolu_seance="59" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2806035" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>Le directeur des comptes rendus</italique>
+          <br/>
+          <italique>Serge Ezdra</italique>
+        </texte>
+      </paragraphe>
+    </point>
+  </contenu>
+</compteRendu>

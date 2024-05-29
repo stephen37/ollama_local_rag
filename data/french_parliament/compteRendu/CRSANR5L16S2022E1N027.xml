@@ -1,0 +1,848 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<compteRendu xmlns="http://schemas.assemblee-nationale.fr/referentiel">
+  <uid>CRSANR5L16S2022E1N027</uid>
+  <seanceRef>RUANR5L16S2022IDS26256</seanceRef>
+  <sessionRef>SCR5A2022E1</sessionRef>
+  <metadonnees>
+    <dateSeance>20220728150000000</dateSeance>
+    <dateSeanceJour>jeudi 28 juillet 2022</dateSeanceJour>
+    <numSeanceJour>2</numSeanceJour>
+    <numSeance>27</numSeance>
+    <typeAssemblee>AN</typeAssemblee>
+    <legislature>16</legislature>
+    <session>Première session extraordinaire 2022</session>
+    <nomFichierJo>20221027</nomFichierJo>
+    <validite>valide</validite>
+    <etat>complet</etat>
+    <diffusion>public</diffusion>
+    <version>avant_JO</version>
+    <environnement>PROD</environnement>
+    <heureGeneration>2022-08-05T18:13:22.000+02:00</heureGeneration>
+    <sommaire>
+      <presidentSeance id_syceron="2841249">Présidence de Mme Naïma Moutchou</presidentSeance>
+      <sommaire1 valeur_pts_odj="1">
+        <titreStruct id_syceron="2841253">
+          <intitule>Ratification du traité de coopération entre la France et l’Italie</intitule>
+          <sousIntitule>0</sousIntitule>
+        </titreStruct>
+        <para id_syceron="2841254"/>
+        <sommaire2>
+          <titreStruct id_syceron="2841256">
+            <intitule>Présentation</intitule>
+          </titreStruct>
+          <para id_syceron="2841258">Mme Laurence Boone, secrétaire d’État auprès de la ministre de l’Europe et des affaires étrangères, chargée de l’Europe</para>
+          <para id_syceron="2841276">Mme Eléonore Caroit, rapporteure de la commission des affaires étrangères</para>
+          <para id_syceron="2841386">M. Jean-Louis Bourlanges, président de la commission des affaires étrangères</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2841445">
+            <intitule>Discussion générale</intitule>
+          </titreStruct>
+          <para id_syceron="2841447">M. Jean-François Portarrieu</para>
+          <para id_syceron="2841455">M. Hubert Julien-Laferrière</para>
+          <para id_syceron="2841467">M. Alain David</para>
+          <para id_syceron="2841475">M. Michel Castellani</para>
+          <para id_syceron="2841340">M. Hadrien Ghomi</para>
+          <para id_syceron="2841351">Mme Marine Hamelet</para>
+          <para id_syceron="2841367">M. Gabriel Amard</para>
+          <para id_syceron="2841491">M. Vincent Seitlinger</para>
+          <para id_syceron="2841499">Mme Laurence Vichnievsky</para>
+          <para id_syceron="2841508">M. Jean-Paul Lecoq</para>
+          <para id_syceron="2841582">Mme Laurence Boone, secrétaire d’État</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2841286">
+            <intitule>Explication de vote</intitule>
+          </titreStruct>
+          <para id_syceron="2841288">Mme Sandrine Rousseau (Écolo-NUPES)</para>
+        </sommaire2>
+        <sommaire2>
+          <titreStruct id_syceron="2841290">
+            <intitule>Vote sur l’article unique</intitule>
+          </titreStruct>
+        </sommaire2>
+      </sommaire1>
+      <sommaire1 valeur_pts_odj="2">
+        <titreStruct id_syceron="2841296">
+          <intitule>Ordre du jour de la prochaine séance</intitule>
+        </titreStruct>
+      </sommaire1>
+    </sommaire>
+  </metadonnees>
+  <contenu>
+    <quantiemes>
+      <journee>Deuxième séance du jeudi 28 juillet 2022</journee>
+      <session>Première session extraordinaire 2022</session>
+    </quantiemes>
+    <ouvertureSeance nivpoint="1" valeur_ptsodj="0" ordinal_prise="1" id_preparation="2085218" ordre_absolu_seance="1" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="0" id_nomination_op="0" code_grammaire="OUV_SEAN_1_1" code_style="Présidence" code_parole="" sommaire="1" id_syceron="2841249" valeur="">
+      <orateurs/>
+      <texte>Présidence de Mme Naïma Moutchou<br/>vice-présidente</texte>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2085219" ordre_absolu_seance="2" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="OUV_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841250" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="840.03">La séance est ouverte.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="0" ordinal_prise="1" id_preparation="2085220" ordre_absolu_seance="3" code_grammaire="OUV_SEAN_2_2" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2841251" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(La séance est ouverte à quinze heures.)</italique>
+        </texte>
+      </paragraphe>
+    </ouvertureSeance>
+    <point nivpoint="1" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085222" ordre_absolu_seance="5" code_grammaire="TITRE_TEXTE_DISCUSSION" code_style="Titre" code_parole="" sommaire="1" id_syceron="2841253" valeur=" (n[[os]] 152)">
+      <orateurs/>
+      <texte>Ratification du traité de coopération entre la France et l’Italie</texte>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085223" ordre_absolu_seance="6" code_grammaire="SOUS_TITRE_TEXTE_DISCUSSION" code_style="Sous-tit_info" code_parole="" sommaire="1" id_syceron="2841254" valeur="">
+      <orateurs/>
+      <texte>
+        <italique>Discussion, après engagement de la procédure accélérée, d’un projet de loi</italique>
+      </texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085224" ordre_absolu_seance="7" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="ODJ_APPEL_DISCUSSION" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841255" valeur=" (n[[os]] 12, 152)" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="843.34">L’ordre du jour appelle la discussion du projet de loi autorisant la ratification du traité entre la République française et la République italienne pour une coopération bilatérale renforcée (n<exposant>os</exposant> 12, 152).</texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085225" ordre_absolu_seance="8" code_grammaire="PRESENTATION_1_0" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2841256" valeur="">
+      <orateurs/>
+      <texte>Présentation</texte>
+      <interExtraction nom_orateur="Mme Laurence Boone, quali  secrétaire d'État auprès de la ministre de l’Europe et des affaires étrangères, chargée de l’Europe" id_acteur="PA801874" id_nomination_oe="PM801924" id_nomination_op="-1" id_mandat="-1">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085226" ordre_absolu_seance="9" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841257" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="852.92">La parole est à Mme la secrétaire d’État auprès de la ministre de l’Europe et des affaires étrangères, chargée de l’Europe.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085227" ordre_absolu_seance="10" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841258" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Boone</nom>
+              <id>801874</id>
+              <qualite>secrétaire d’État auprès de la ministre de l’Europe et des affaires étrangères, chargée de l’Europe</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="884.37">Je suis très heureuse de vous présenter le projet de loi visant à ratifier le traité pour une coopération bilatérale renforcée entre la France et l’Italie, dit traité du Quirinal. Je salue le travail de Mme la rapporteure Eléonore Caroit, ainsi que le travail que la commission des affaires étrangères a accompli lors de l’examen du projet de loi, le 20 juillet.<br/>Madame la rapporteure, vous l’avez dit à juste titre : signé par le Président de la République et par le Président du Conseil des ministres italien, Mario Draghi, le 26 novembre 2021 à Rome, ce traité occupe une place à part. Il scelle l’amitié profonde qui lie nos deux pays, afin de renforcer leurs liens institutionnels et d’œuvrer au rapprochement de leurs sociétés civiles.<br/>Il s’agit du premier traité de portée générale avec l’Italie, et du premier de cette ampleur ; sa signature marquera durablement l’histoire de la relation franco-italienne. Le choix du palais présidentiel italien, sur la colline du Quirinal, pour accueillir la cérémonie de signature, a témoigné du caractère exceptionnel de l’événement, auquel ont assisté les plus hautes autorités de nos deux pays.<br/>Le traité du Quirinal consacre une amitié de très longue date, riche d’échanges entre nos deux États, entre nos peuples, nos sociétés civiles, nos intellectuels et nos économies : tous communiquent et interagissent naturellement depuis des siècles. De la civilisation gallo-romaine à la fondation des Communautés européennes, nous partageons avec l’Italie une culture et une histoire communes, qui confèrent à notre relation bilatérale un caractère évident et inné, tellement naturel que cette relation n’avait pas, jusqu’à récemment, été investie à sa juste valeur.<br/>Toutefois, le traité du Quirinal ne se contente pas d’entériner une relation déjà installée ; il entend ouvrir une ère nouvelle. En structurant nos échanges et nos coopérations selon un cadre institutionnel rénové, il favorisera l’émergence d’un réflexe franco-italien dans tous les domaines et à tous les niveaux de l’État et des institutions et, nous l’espérons, bien au-delà. Ce réflexe, nous l’avons déjà vu apparaître et se renforcer depuis que la volonté de signer ce traité a été formalisée. Il se traduit par des échanges réguliers et fréquents entre membres de gouvernement, mais aussi entre administrations.<br/>L’habitude de se concerter et de travailler en commun doit nous permettre d’approfondir nos coopérations, ainsi que, et c’est essentiel, de stabiliser, dans la durée, une relation qui, nous le savons tous, a parfois connu des turbulences et des soubresauts. Ce traité doit permettre de l’ancrer profondément, dans le temps long, à l’abri des aléas politiques.<br/>Il ne vous aura pas échappé que le traité du Quirinal se veut aussi résolument européen, par ses valeurs et par ses objectifs. Il participera à renforcer nos contributions communes au projet européen. Cette ambition partagée nous rappelle combien les convergences entre la France et l’Italie, deux pays fondateurs de l’Union européenne, constituent l’un des ciments du projet européen. Durant la présidence française du Conseil de l’Union européenne, notre voisin transalpin a ainsi été un partenaire précieux et essentiel pour atteindre les résultats qui vous ont été exposés ce matin. Toutes les coopérations bilatérales que prévoit le traité s’inscrivent également dans le cadre européen, qu’elles contribueront à renforcer, y compris par une meilleure intégration de nos territoires.<br/>Face aux difficultés auxquelles l’Union européenne est confrontée, comme la guerre, l’Italie nous a montré qu’elle était un allié de premier plan pour défendre et renforcer notre agenda de souveraineté et d’autonomie stratégique, pour préserver l’unité européenne, et pour élaborer une réponse commune à la guerre en Ukraine. Devant tous ces défis et ceux à venir, nous entendons, plus que jamais, entretenir avec l’Italie la dynamique de confiance qui permet à nos deux pays d’être forces de proposition et de faire avancer le projet européen.<br/>Je souhaite à présent évoquer quelques dispositions concrètes du traité, qui méritent tout particulièrement d’être mises en exergue, afin de mieux exposer nos intentions.<br/>Tout d’abord, le traité fixe l’objectif d’approfondir notre coopération en matière de défense. Avec le retour de la guerre sur notre continent, nul ne doute de la pertinence de telles coopérations. Le traité souligne la solidarité qui lie nos deux pays en cas d’agression contre nos territoires respectifs. Certes, cette disposition est conforme aux engagements internationaux auxquels nous avons souscrit. Mais plus que cela, il s’agit d’un symbole fort, <italique>a fortiori</italique> dans le contexte international dégradé que nous connaissons, qui nous rappelle que nous devons agir ensemble pour surmonter les crises et pour défendre nos intérêts stratégiques communs, notamment en Méditerranée et en Afrique.<br/>Deuxièmement, et pour moi c’est très important, le rapprochement de nos jeunesses constitue un autre axe fort de ce traité. Il témoigne de notre volonté de tourner notre relation vers l’avenir et constitue le meilleur gage pour y parvenir. Nous élaborerons une véritable stratégie pour favoriser des liens durables entre les jeunes Français et les jeunes Italiens, parce qu’ils sont et seront les meilleurs ambassadeurs de notre relation bilatérale. Nous créerons un service civique franco-italien, avec une mobilité croisée. En outre, nous développerons les échanges d’élèves, d’apprentis et d’étudiants. Soyez assurés que notre gouvernement, comme le gouvernement italien, prendra toute sa part à cette dynamique.<br/>Troisièmement, dès son préambule, le traité fait de la Méditerranée un espace de coopération privilégié. Cette zone stratégique pour nos deux pays doit être au cœur de la coordination franco-italienne en matière de politique de voisinage, de développement, d’économie bleue, de sécurité et d’environnement. Elle doit aussi faire l’objet de toute notre attention, dans le cadre de la coopération bilatérale relative à la gestion de notre frontière maritime commune.<br/>Quatrièmement, le traité prévoit que la France et l’Italie favoriseront des rapprochements équilibrés entre leurs acteurs économiques. La proximité existe déjà dans ce domaine, avec des relations intenses, mais son renforcement développera une meilleure connaissance réciproque des entreprises françaises et italiennes, favorisera la présence et le développement des industries des deux pays, notamment dans les secteurs clés de l’autonomie stratégique, comme le numérique, la transition écologique ou encore l’industrie spatiale.<br/>Dernièrement, le traité vise à développer la coopération transfrontalière, ce qui constitue un autre objectif important. Il s’agit de favoriser la réalisation de projets concrets au bénéfice des habitants des régions frontalières, en particulier en matière de mobilité, de secours, de développement économique et de protection de l’environnement. Le texte institue un comité de coopération frontalière, inspiré du modèle franco-allemand que vous connaissez bien. Il doit permettre de soutenir des projets conjoints en levant les obstacles, réglementaires notamment liés à l’existence de la frontière.<br/>N’ayez pas peur, je ne vais pas évoquer toutes les dispositions de ce traité extrêmement riche, car cela nécessiterait beaucoup plus que quelques minutes. Néanmoins, je souligne encore une fois que ce traité, si vous le ratifiez, sera structurant pour l’avenir de notre relation avec l’Italie. Nous nous attacherons à sa pleine exécution, notamment au profit de la population qui vit dans la zone frontalière.<br/>Je finirai en évoquant un aspect central de la relation institutionnelle franco-italienne, qui vous intéressera particulièrement : la diplomatie parlementaire. Il est indispensable selon moi que nos deux parlements soient pleinement impliqués dans le dialogue franco-italien. Je sais que cette assemblée a déjà œuvré à structurer ses relations avec la Camera dei deputati, et je m’en réjouis. Je salue également les échanges de part et d’autre des Alpes entre groupes d’amitié parlementaires. Je suis convaincue qu’ils seront à nouveau de grande qualité pendant la XVI<exposant>e</exposant> législature.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085242" ordre_absolu_seance="26" id_acteur="PA335612" id_mandat="PM797391" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841335" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1337.29">Y aura-t-il une assemblée parlementaire ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085243" ordre_absolu_seance="27" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841274" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Laurence Boone</nom>
+              <id>801874</id>
+              <qualite>secrétaire d’État</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1580.59">Telles sont les principales observations que je souhaitais porter à votre connaissance sur le traité de coopération bilatérale renforcée entre la France et l’Italie. <italique>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Eléonore Caroit, quali  rapporteure de la commission des affaires étrangères" id_acteur="PA795330" id_nomination_oe="-1" id_nomination_op="-1594848" id_mandat="PM797424">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085244" ordre_absolu_seance="28" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841275" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="1595.31">La parole est à Mme Eléonore Caroit, rapporteure de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="1" id_preparation="2085245" ordre_absolu_seance="29" id_acteur="PA795330" id_mandat="PM797424" id_nomination_oe="-1" id_nomination_op="-1594848" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841276" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Eléonore Caroit</nom>
+              <id>795330</id>
+              <qualite>rapporteure de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="1617.49">Notre assemblée est saisie du projet de loi visant à autoriser la ratification du traité entre la République française et la République italienne pour une coopération bilatérale renforcée, signé à Rome le 26 novembre 2021.<br/>Ce traité, également appelé traité du Quirinal, occupe une place à part parmi les multiples traités d’amitié que la France a conclus au cours de son histoire. Par son nom même, celui du siège de la présidence italienne à Rome, il fait écho au traité de l’Élysée, qui a posé, en 1963, les fondations du couple franco-allemand, en promouvant une coopération bilatérale renforcée et un dialogue systématique.<br/>Si les contextes diffèrent fondamentalement, le traité du Quirinal vise lui aussi à sceller officiellement, dans un texte à portée générale, l’amitié profonde entre la France et l’Italie, afin de renforcer leurs liens institutionnels et d’œuvrer au rapprochement de leurs sociétés civiles. En matière économique, la France et l’Italie sont des partenaires commerciaux majeurs : avec un volume global d’échanges s’élevant en 2019 à 82 milliards d’euros, l’Italie est le troisième partenaire commercial de la France, et la France le premier investisseur étranger en Italie.<br/>S’agissant des relations culturelles, les échanges sont extrêmement riches entre nos deux pays. Ils s’appuient sur des institutions prestigieuses telles que la <italique>Villa Medici</italique> – l’Académie française à Rome –, ou encore un réseau culturel très dense. Enfin, l’Italie compte 100 000 résidents français sur son territoire et la France, quelque 400 000 résidents italiens.<br/>Les deux pays se révèlent ainsi des partenaires importants au regard de l’intrication de leur histoire, de leur culture, mais surtout des valeurs qu’ils partagent. La relation entre la France et l’Italie n’a toutefois pas été dans le passé suffisamment structurée ni même valorisée. En outre, elle a été sujette à des fluctuations importantes au gré d’événements politiques. Nous avons ainsi constaté des situations de déphasage, qui ont engendré de l’instabilité et des crispations entre nous. L’un des principaux objectifs de ce traité vise justement à créer un cadre global pérenne permettant de dépasser ces circonstances conjoncturelles.<br/>Il ressort des travaux que j’ai menés dans le cadre de l’examen du texte que la relation entre la France et l’Italie est éprouvée par un double paradoxe. D’une part, nous avons des points de convergence très nombreux, mais nous ne parvenons pas à les exploiter à leur juste valeur. Or lorsque la France et l’Italie agissent de concert, elles obtiennent des résultats extraordinaires, tels que le plan de relance européen, défendu par les deux pays en 2020. D’autre part, du fait de notre proximité linguistique et culturelle, nous pensons intuitivement nous connaître, alors que nos deux pays sont en réalité assez différents ; cela conduit parfois à des malentendus.<br/>Le traité du Quirinal est pensé justement pour dépasser ce double paradoxe, en œuvrant à une meilleure structuration de la relation bilatérale franco-italienne, en améliorant la connaissance mutuelle entre nos deux pays et en favorisant l’émergence d’une matrice permettant de développer des projets concrets dans tous les domaines de coopération.<br/>Le texte du traité s’appuie sur quatre piliers. En premier lieu, un rappel de ce qui nourrit historiquement les relations franco-italiennes – l’amitié ou <italique>l’amicizia </italique>entre nos deux pays : les valeurs partagées et leur vision commune pour l’Europe. En deuxième lieu, la promotion des échanges dans tous les domaines, au moyen de formations conjointes entre les fonctionnaires, de programmes d’échanges pour les jeunes ou encore du développement de résidences d’artistes. En troisième lieu, l’ambition de faire de ce cadre pérenne une matrice à projets, afin de permettre l’éclosion de programmes bilatéraux concrets. Sont énumérés dans le traité plusieurs domaines de coopération possibles tels que l’économie, l’énergie, la défense, l’espace, le numérique, la lutte contre le changement climatique, la protection des Alpes et de la Méditerranée, la santé, l’éducation, la recherche, la culture ou encore la jeunesse – et j’en passe. Enfin, en quatrième lieu, la volonté, rappelée par Mme la secrétaire d’État, de développer ce réflexe franco-italien grâce à des mécanismes de consultation régulière, tant au niveau politique qu’au niveau administratif.<br/>La structuration des relations institutionnelles prévues par le traité a en effet pour objectif de faire émerger une culture administrative commune et des habitudes de dialogue systématique, de sorte que se développe ce fameux réflexe, tout comme il existe un réflexe franco-allemand. Un tel rapprochement est rendu possible par des mécanismes de consultation régulière. Sont notamment prévus au niveau gouvernemental – je ne vais en citer que quelques-uns : la relance du conseil franco-italien de défense et de sécurité, créé il y a déjà quelques années ; la création d’un forum de concertation économique ; l’instauration d’un dialogue stratégique sur les transports ; la tenue de réunions bilatérales entre différents ministères. Au niveau administratif – je ne vais pas non plus les énumérer tous –, ces formats comprennent des instances de concertation thématique, des échanges entre fonctionnaires ou encore des formations communes.<br/>Le traité du Quirinal, signé entre deux États fondateurs de l’Union européenne, revêt une dimension européenne clairement affichée et assumée par les deux pays. La coopération bilatérale entre la France et l’Italie favorisera, j’en suis convaincue, l’approfondissement du projet européen par l’intégration plus forte des territoires et des sociétés civiles des deux pays. Les résultats engrangés pour l’Europe par le couple franco-allemand démontrent la pertinence d’une telle démarche. Renforcer les liens et la confiance entre les peuples de l’Union bénéficie à l’Europe tout entière. Les États membres sont d’autant plus confiants dans le jeu communautaire que des relations bilatérales leur apparaissent fortes et fiables.<br/>La portée de ce traité dépendra naturellement de la volonté politique des acteurs et de son appropriation par l’ensemble des administrations concernées. Or il ressort de mes travaux que les relations entre l’administration française et l’administration italienne ont commencé à changer dès le début des discussions du traité ; ce réflexe franco-italien a commencé à émerger et il a déjà été engagé.<br/>J’appelle votre attention sur un rôle particulier : celui que nous, parlementaires, pourrions jouer pour permettre à ce traité de remplir ses objectifs. Dans son préambule, le texte reconnaît l’importance et la vitalité de la coopération entre les parlements français et italien et souligne à juste titre l’intérêt de la diplomatie parlementaire. Échanger plus régulièrement avec nos homologues italiens pourrait se révéler bénéfique pour le renforcement de nos liens, pour l’amélioration de notre connaissance mutuelle, ainsi que pour la formation de positions convergentes. En ce sens, il serait opportun que notre Assemblée se mobilise au plus vite en faveur d’un affermissement de la coopération parlementaire instituée en novembre 2021 entre l’Assemblée nationale française et la Camera dei deputati italiana.<br/>Pour conclure, l’avenir du traité dépendra de la régularité avec laquelle les parties s’investiront – cela nous concerne aussi – dans les mécanismes de consultation politique, des rencontres périodiques permettant de favoriser en amont le règlement d’éventuels malentendus. Il dépendra également de la qualité des échanges entre les sociétés civiles de nos deux pays, qui permettront de valoriser le parcours commun et de faire émerger des ambassadeurs de la relation franco-italienne, notamment au sein de la jeunesse. Enfin, il dépendra d’une juste évaluation des priorités et des besoins, afin d’assurer une coopération efficace dans tous les domaines prévus par ce traité.<br/>Je tiens à le rappeler, ce traité est un cadre, une enveloppe, qu’il nous faudra remplir. La coopération bilatérale renforcée entre la France et l’Italie sera ce que le traité produira. En Italie, le texte a été définitivement ratifié par le Parlement italien à la suite de votes largement favorables, tant à la Chambre des députés, le 25 mai 2022, qu’au Sénat le 5 juillet. J’insiste sur l’intérêt que la coopération bilatérale renforcée présente pour nos deux pays, mais aussi et peut-être surtout, pour l’Europe dans son ensemble. Pour cette raison j’invite l’Assemblée à voter sans réserve en faveur de l’approbation de ce traité. <italique>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2085259" ordre_absolu_seance="43" id_acteur="PA721608" id_mandat="PM797790" id_nomination_oe="-1" id_nomination_op="PM801809" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841384" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <id>721608</id>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2125.62">Bravo !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Jean-Louis Bourlanges, quali  président de la commission des affaires étrangères" id_acteur="PA721608" id_nomination_oe="-1" id_nomination_op="PM801809" id_mandat="PM797790">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2085260" ordre_absolu_seance="44" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841385" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2154.81">La parole est à M. le président de la commission des affaires étrangères.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="2" id_preparation="2085261" ordre_absolu_seance="45" id_acteur="PA721608" id_mandat="PM797790" id_nomination_oe="-1" id_nomination_op="PM801809" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841386" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <id>721608</id>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="2213.99">Les services de la commission m’ont préparé un excellent discours, mais je compte vous parler personnellement, avec le cœur, d’un sujet qui nous intéresse au plus profond de ce que nous sommes, la relation franco-italienne. Ceux qui me connaissent savent que mon épouse était l’arrière-petite-fille d’un compagnon de Garibaldi ; je ne peux évoquer les rapports franco-italiens sans songer à cet héritage personnel fondamental pour moi. <italique>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</italique><br/>Je voudrais faire passer des messages très simples. Premièrement, si nous sommes en séance publique pour autoriser la ratification de ce traité, c’est parce que la commission, notamment son président, l’a voulu. Ce formalisme était indispensable au regard de la solennité que cette ratification a revêtue du côté italien, au palais Montecitorio. Il aurait été inimaginable qu’il n’y ait pas un vrai débat dans notre Assemblée. J’ai été reçu, en qualité de président de la commission des affaires étrangères, par mon homologue au moment du débat sur la ratification en commission des affaires étrangères italienne. Il s’est très bien passé ; les Italiens ont largement ratifié le traité. Il était évident qu’il fallait respecter le parallélisme des formes.<br/>Mon deuxième message consiste à dire que le traité représente la fin brillante d’une crise désastreuse dans les relations franco-italiennes. Je ne remonterai pas aux causes – elles n’ont aucun intérêt – mais souvenons-nous qu’il y a peu, nous avons été amenés à rappeler notre ambassadeur à Rome. Désormais, la relation positive, constructive, amicale et de confiance avec l’Italie est rétablie. La restauration complète de ces liens provient en grande partie de ce que nous avons fait confiance à la justice italienne. Elle n’est pas une justice d’essence inférieure qui ne peut pas traiter équitablement les affaires de terrorisme qui ont été soulevées. On sait bien que ce problème a rebondi ; le Gouvernement n’y est pour rien, il estime que la justice italienne a toutes les raisons de faire ce qu’elle fait. Pour autant, nous sommes évidemment respectueux de l’indépendance de la justice française, qui est d’ailleurs très divisée sur la question de savoir s’il faut ou non rendre à la République italienne des terroristes coupables de crimes de sang. Les juridictions sont divisées et le Gouvernement français n’a exercé aucune pression négative sur les autorités juridictionnelles, ce que les Italiens reconnaissent.<br/>Le troisième message, c’est l’hommage que je voudrais rendre au président Draghi <italique>(M. Vincent Bru acquiesce),</italique> qui vient de quitter le pouvoir – il expédie désormais les affaires courantes. Rien n’aurait été possible sans son action au service de l’Union économique et monétaire, sans son action de solidarité pour la défense de l’Ukraine et sans son action pour la reconnaissance de l’Ukraine en qualité de candidate à l’adhésion à l’Union européenne. <italique>(Applaudissements sur les bancs des groupes RE et Dem.)</italique><br/>L’accord entre Emmanuel Macron et Mario Draghi a été essentiel et déterminant pour amener le chancelier fédéral allemand à rejoindre cette alliance. Le président Draghi quitte le pouvoir aujourd’hui : nous lui devons un hommage solennel de la part notre Assemblée. <italique>(Applaudissements sur les bancs des groupes RE, Dem et HOR. – M. Vincent Seitlinger applaudit également.)</italique><br/>Je voudrais également rendre hommage également aux fonctionnaires et notamment aux ambassadeurs : M. Christian Masset à Rome et Mme Teresa Castaldo à Paris ont été des ambassadeurs extraordinaires, qui ont mis leur talent, leur énergie et leur amitié franco-italienne au service de cette réconciliation. Ils ont notamment été l’un et l’autre les agents infatigables d’une relation parlementaire rétablie entre nos deux assemblées. Je crois qu’il faut leur rendre hommage. J’aurais voulu terminer par un dernier mot, mais je n’ai plus le temps ; je m’en passerai et vous vous en passerez ! <italique>(Sourires. – Applaudissements sur les bancs des groupes RE, Dem et HOR.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085303" ordre_absolu_seance="51" code_grammaire="DISC_GENERALE_1" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2841445" valeur="" bibard="">
+      <orateurs/>
+      <texte>Discussion générale</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085304" ordre_absolu_seance="52" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841446" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2562.18">Dans la discussion générale, la parole est à M. Jean-François Portarrieu.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085305" ordre_absolu_seance="53" id_acteur="PA719528" id_mandat="PM796515" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2841447" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-François Portarrieu</nom>
+            <id>719528</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="2583.49">J’aurais bien offert quelques-unes de mes minutes au président Bourlanges pour qu’il poursuive son propos, mais nous aurons certainement l’occasion de l’entendre de nouveau.<br/>Le groupe Horizons et apparentés est favorable au traité du Quirinal, qui consolidera entre nos deux pays les relations naturelles que vous avez décrites, madame la secrétaire d’État. Il permettra à nos représentants respectifs de présenter, sur la scène européenne et internationale, des positions mieux accordées et, dès lors, plus influentes.<br/>Les cultures française et italienne s’entremêlent depuis des siècles. Nos socles de valeurs sont très proches et nos modes de vie se ressemblent. C’est pourquoi ce traité apparaît comme une évidence. Encore faut-il parfois savoir rappeler et souligner les évidences. J’insisterai rapidement sur certaines mesures qui me semblent particulièrement significatives, symboliques et intéressantes.<br/>D’abord, dans le domaine de la défense, le renforcement de la coopération en matière de sécurité et de défense, la coopération judiciaire et le développement de l’industrie aérospatiale sont autant d’ambitions qui renforceront la France, l’Italie et, par voie de conséquence, l’Union européenne. Dans un monde toujours plus conflictuel, en proie à des crises internationales incessantes, l’Europe, si elle ne veut pas courir le risque d’être périphérisée, doit avoir les moyens de ses ambitions sur la scène internationale. Il est manifeste que ce traité y contribuera davantage.<br/>Ensuite, sur la         question du numérique, l’un des grands enjeux des prochaines années est indéniablement le défi numérique et technologique. En reconnaissant l’importance de leur coopération pour renforcer la souveraineté et la transition numérique, les deux pays acceptent de le relever. Ils s’engagent à approfondir leur coopération dans des secteurs stratégiques, comme celui des nouvelles technologies qui implique un indispensable renforcement de la coopération en matière de cybersécurité. Hier, cette question a été évoquée par notre assemblée, à l’occasion de l’examen de la proposition de loi portant diverses dispositions d’adaptation au droit de l’Union européenne en matière de prévention de la diffusion de contenus à caractère terroriste en ligne.<br/>Enfin, s’agissant de la jeunesse, la création d’un programme de volontariat franco-italien visant nos plus jeunes, intitulé service civique franco-italien, constitue une initiative pertinente pour consolider toujours davantage nos convergences de vues et de valeurs d’avenir.<br/>Ce traité prévoit donc les nouvelles étapes de projets de coopération qui pourront être très probablement élargis à d’autres États membres de l’Union européenne. En cela, il est à la fois bilatéral et profondément européen. Avant de conclure, je tiens à remercier les membres du groupe d’amitié France-Italie de la précédente législature, dont certains sont présents, qui ont contribué aux travaux sur ce traité inédit, évident et ambitieux. <italique>(Applaudissements sur les bancs des groupes HOR, RE et Dem.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Hubert Julien-Laferrière" id_acteur="PA722344" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM797244">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085312" ordre_absolu_seance="60" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841454" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2786.01">La parole est à M. Hubert Julien-Laferrière.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085313" ordre_absolu_seance="61" id_acteur="PA722344" id_mandat="PM797244" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841455" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Julien-Laferrière</nom>
+              <id>722344</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2807.64">L’Italie est plus qu’une alliée précieuse pour la France, c’est une nation amie, pour ne pas dire sœur. Au-delà de 500 kilomètres de frontières communes, le long desquelles se trouvent de nombreux bassins d’emploi et de vie partagés, Français et Italiens ont énormément en commun.<br/>Le traité du Quirinal contient de précieuses avancées, vous avez été nombreux à le dire, notamment l’engagement conjoint pris pour défendre les droits humains, la paix et le multilatéralisme en toutes circonstances. L’accélération de la coopération culturelle, universitaire et éducative permettra également à la jeunesse de nos deux pays de multiplier les échanges, à nos institutions d’enseignement supérieur de développer davantage de partenariats et à nos instances scientifiques et technologiques de s’enrichir mutuellement, grâce à des projets partagés. Enfin, nous saluons l’engagement de nos deux pays à se porter mutuellement assistance en cas d’agression armée sur nos territoires, qui prend aujourd’hui tout son sens. Les échanges entre Italiens et Français ont été très riches et seront encore approfondis.<br/>Toutefois, à la lecture du traité, quelques points ont mis notre vigilance en alerte. D’abord, si l’article 6 prévoit bien une lutte conjointe pour le développement durable, la protection de la biodiversité et la décarbonation de notre économie, un projet en particulier est pour les écologistes – mais pas uniquement pour eux – de nature à contredire cette ambition climatique. Je fais référence au projet de ligne ferroviaire entre Lyon et Turin, que le texte prévoit de développer. Chers collègues, on peut ne pas aller plus loin que le bout de son nez et s’amuser de ces écologistes qui s’opposent à un projet visant à remplacer la route par le ferroviaire. Mais on peut aussi aller plus loin, en cherchant à comprendre pourquoi, de chaque côté des Alpes, les écologistes sont opposés depuis longtemps à ce projet. Sans doute ont-ils mesuré les conséquences de ce serpent de mer qui ressurgit sans cesse depuis plus de trente ans.<br/>Qu’est-ce que le projet de ligne Lyon-Turin ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085316" ordre_absolu_seance="65" id_acteur="PA335612" id_mandat="PM797391" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841458" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2905.15">Un train !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085317" ordre_absolu_seance="66" id_acteur="PA722344" id_mandat="PM797244" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841459" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hubert Julien-Laferrière</nom>
+              <id>722344</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="2941.52">Ce projet pharaonique, inadapté à la réalité géologique des territoires qu’il traverse, est destructeur pour les réserves en eau, pour la faune, pour la flore et pour les populations du val de Suse, du Val d’Aoste ou de la vallée de l’Arve.<br/>Subissant la fonte des glaciers, la pollution de l’air et l’effondrement de la biodiversité, le massif alpin commun à la France et à l’Italie connaît déjà bien les conséquences du réchauffement climatique et de l’activité humaine. La construction de la ligne Lyon-Turin ne fera que les aggraver. <italique>(M. Jean-Luc Fugit s’exclame.)</italique> Savez-vous qui a affirmé l’an dernier que les émissions de CO<indice>2</indice> liées à la construction de l’ouvrage ne seront compensées qu’au moins vingt-cinq ans après la mise en service ? Ce ne sont pas les écologistes mais la Cour des comptes européenne.<br/>L’alternative à la ligne Lyon-Turin, c’est non la route, mais la ligne ferroviaire qui existe déjà et qui a été rénovée pour près d’un milliard d’euros entre 2012 et 2018. Or elle est loin d’être saturée : vingt-cinq trains par jour y circulent aujourd’hui contre plus d’une centaine il y a trente ans. Si l’on commençait par exploiter pleinement la ligne existante, on pourrait quasiment diviser par deux le nombre de poids lourds sur les routes. <italique>(Applaudissements sur quelques bancs des groupes Écolo-NUPES et LFI-NUPES.)</italique><br/>Enfin, le coût, de la ligne Lyon-Turin est devenu exorbitant : il a été multiplié par dix en trente ans, passant de 3 milliards d’euros en 1991 à 30 milliards, alors qu’au bout du compte, le trafic susceptible d’être capté sera très faible. Le montant de 30 milliards représente à peu près la somme dont nous avons besoin pour rénover nos passoires thermiques et pour faire ainsi de l’écologie l’alliée du pouvoir d’achat. <italique>(Mêmes mouvements.)</italique><br/>L’autre point de vigilance est relatif aux migrations à la frontière franco-italienne et aux drames humains qui en découlent. La France et l’Italie, c’est l’Europe ; elles en sont les mères fondatrices, elles doivent incarner ses valeurs, en particulier l’accueil digne des personnes exilées qui fuient l’extrême pauvreté et les conflits. Je veux rendre hommage à Cédric Herrou <italique>(Applaudissements sur plusieurs bancs du groupe Écolo-NUPES et sur quelques bancs du groupe LFI-NUPES) </italique>que je suis allé rencontrer dans sa communauté Emmaüs de la vallée de la Roya. Il était poursuivi pour délit de solidarité en raison de son action en faveur des exilés. Nous avons certainement besoin de la coopération policière prévue dans le traité, mais, alors que des dizaines de milliers de personnes sont interpellées chaque année entre Vintimille et Menton, la fraternité, dans notre République, ne peut pas être un délit. <italique>(Applaudissements sur quelques bancs du groupe LFI-NUPES.)</italique><br/>Ainsi, nous avons des désaccords sur ce traité, je les ai rapidement développés, mais nous ne pouvons évidemment pas nous y opposer ni même nous abstenir de le voter. Il a pour objectif de renforcer nos liens avec une nation sœur, qui a tant apporté à notre pays. Nous voterons donc en faveur de sa ratification, mais non sans émettre quelques réserves. <italique>(Applaudissements sur les bancs des groupes Écolo-NUPES et LFI-NUPES ainsi que sur quelques bancs des groupes RE et Dem.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085323" ordre_absolu_seance="72" id_acteur="PA721608" id_mandat="PM797790" id_nomination_oe="-1" id_nomination_op="PM801809" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841465" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <id>721608</id>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3029.30">Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Alain David" id_acteur="PA1008" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM796623">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085324" ordre_absolu_seance="73" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841466" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3112.97">La parole est à M. Alain David.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085325" ordre_absolu_seance="74" id_acteur="PA1008" id_mandat="PM796623" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841467" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Alain David</nom>
+              <id>1008</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3138.17">J’ai rappelé en commission qu’après la réunion de travail très éclairante que nous avons eue avec une délégation de nos collègues de la Chambre des députés italienne conduite par Piero Fassino au mois de décembre 2021, l’inscription rapide de ce texte à l’ordre du jour de notre assemblée était un nouveau signe fort de notre souci partagé de renforcer nos relations avec nos voisins transalpins.<br/>Ce traité vient parachever les liens unissant la France et l’Italie, déjà très étroits, même si avaient pu naître au cours des dernières années, sous l’influence du Mouvement 5 étoiles, des incompréhensions allant même jusqu’à la brouille diplomatique.<br/>Le traité d’amitié franco-italien de novembre 2021, qui a été conçu sur le modèle du traité d’amitié franco-allemand d’Aix-la-Chapelle, est un des plus complets jamais conclus. Il surpasse même sur certains points, notamment par la feuille de route très complète qui l’accompagne, le degré de rapprochement et d’intégration atteint par la France et l’Allemagne, si ce n’est dans les projets concrets, du moins dans les positionnements politiques.<br/>Les députés du groupe Socialistes et apparentés sont particulièrement satisfaits que l’article 1<exposant>er</exposant>, visant à renforcer la coopération diplomatique, mentionne les enjeux euroméditerranéens, les relations avec le continent africain et la politique commerciale. Les questions de défense, développées à l’article 2, prennent également tout leur sens dans le contexte de guerre aux portes de l’Europe. Nous en reparlerons d’ailleurs prochainement avec l’examen du texte relatif à l’élargissement de l’OTAN à la Finlande et à la Suède. En effet, le traité du Quirinal propose d’intensifier les coopérations capacitaires et opérationnelles en matière de défense. Il insiste sur la nécessité de développer un pilier européen de l’OTAN. Il constitue en quelque sorte un traité de réassurance pour la défense des deux pays, qui s’engagent chacun, conformément à l’article 5 du Traité de l’Atlantique Nord et au paragraphe 7 de l’article 42 du Traité sur l’Union européenne, à défendre le territoire de l’autre État. Enfin, est soulignée la nécessité de construire des partenariats industriels communs en matière de défense et de renforcer ainsi la base industrielle et technologique de défense européenne (BITDE).<br/>Nous avons également été sensibles aux sujets environnementaux, abordés dans l’article 6, même si, comme toujours en la matière, les bonnes intentions doivent s’accompagner d’actes concrets. Par ailleurs, cet article est consacré au développement social, durable et inclusif. Il rappelle la nécessité d’œuvrer en faveur de politiques sociales et inclusives, d’accroître leur action en matière de lutte contre le réchauffement climatique et de promouvoir la biodiversité. La Méditerranée fait l’objet d’une attention toute particulière, le traité prévoyant la protection de cette zone. De même, est abordée la coopération en matière d’agriculture, d’agroalimentaire et de lutte contre le gaspillage alimentaire.<br/>L’article 8 relatif à l’enseignement, à la formation, à la recherche et à l’innovation et l’article 9, relatif à la jeunesse et à la culture, constituent également des éléments prometteurs pour le renforcement de notre partenariat.<br/>Pour toutes ces raisons, le groupe Socialistes et apparentés votera ce texte, qui constitue un indéniable progrès. <italique>(Applaudissements sur quelques bancs du groupe RE.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Michel Castellani" id_acteur="PA719138" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM796356">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085332" ordre_absolu_seance="81" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841474" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3367.83">La parole est à M. Michel Castellani.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="3" id_preparation="2085333" ordre_absolu_seance="82" id_acteur="PA719138" id_mandat="PM796356" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841475" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Michel Castellani</nom>
+              <id>719138</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3396.37">Les députés du groupe Libertés, indépendants, outre-mer et territoires sont très attachés à la construction européenne et au développement des partenariats le plus approfondis possible avec nos voisins, tant sur le plan économique, commercial, culturel, éducatif que diplomatique. Nous accueillons donc favorablement ce traité, d’autant plus que notre partenariat avec l’Italie est crucial.<br/>Les liens entre la France et l’Italie sont particulièrement anciens. Les deux pays sont des membres fondateurs de la construction européenne : d’abord de la Communauté européenne du charbon et de l’acier (CECA), puis de la Communauté économique européenne et enfin de l’Union Européenne. À eux deux, ils représentent près d’un tiers des citoyens de l’Union Européenne et de son PIB, et les liens économiques entre eux sont très solides. La France est aujourd’hui le premier employeur et investisseur étranger en Italie. Avec celle-ci, nous partageons souvent, au niveau européen, une vision commune, en particulier sur le modèle social. La ratification de ce traité envoie un signal fort, puisque l’Italie est le second pays, après l’Allemagne, avec lequel un tel accord est signé.<br/>Notre groupe – j’insisterai beaucoup sur ce point – regrette toutefois un manque important, celui de la Corse. L’article 10 du traité du Quirinal incite à la coopération transfrontalière franco-italienne entre les collectivités, mais cela concerne principalement des bassins de vie frontaliers terrestres. Le traité ne mentionne pas la Corse et omet les frontières maritimes. Pour rappel, la Corse est distante de douze kilomètres de la région autonome de Sardaigne, et de trente kilomètres de l’île d’Elbe et de la Toscane. Pour tout vous dire, de la fenêtre de chez moi, je vois l’Italie tous les jours. La Corse est donc clairement une région transfrontalière avec l’Italie et un élément central dans la relation avec ce pays. Elle se situe géographiquement dans l’aire tyrrhénienne. Historiquement, elle fut romaine, pisane, vaticane et génoise. Elle s’est construite en lien étroit avec les cités-États de la péninsule italienne. La langue corse appartient à la famille des langues romanes de l’ère italique.<br/>Il est scandaleux que la Corse ne soit même pas mentionnée dans cet accord : soit il s’agit d’éviter on ne sait quel irrédentisme – qui est un pur fantasme –, soit il s’agit d’étouffer un possible rayonnement de la Corse dans les domaines économique et culturel. Cela est pour nous totalement inacceptable. Le développement des échanges entre la Corse et l’Italie est crucial pour le développement de la première. Nous souhaitons donc que le traité vise à approfondir ses partenariats avec les régions italiennes voisines et qu’il favorise le développement des partenariats publics et économiques, des moyens de transport, des échanges culturels, artistiques et littéraires, de la coopération audiovisuelle ou encore des échanges universitaires et scientifiques entre la Corse et l’Italie. Nous souhaitons fortement que l’application du traité aille dans ce sens et nous y veillerons.<br/>En définitive, le traité du Quirinal pose une base de coopération entre la France et l’Italie. Il revient désormais au Gouvernement et aux administrations de s’en emparer, pour avancer collectivement et la rendre effective. Notre groupe soutient la ratification de ce traité et sera très attentif à ce que les coopérations proposées soient suivies d’effets concrets sur le terrain, en Corse et dans l’ensemble des secteurs et territoires concernés.</texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Hadrien Ghomi" id_acteur="PA721722" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM797502">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085270" ordre_absolu_seance="87" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841339" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3597.39">La parole est à M. Hadrien Ghomi.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085271" ordre_absolu_seance="88" id_acteur="PA721722" id_mandat="PM797502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841340" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hadrien Ghomi</nom>
+              <id>721722</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3625.25">Je tiens tout d’abord à remercier M. le président Bourlanges, qui a choisi de privilégier le retour à la procédure normale et de permettre aux groupes parlementaires de s’exprimer sur la ratification de ce traité ô combien important. <italique>(Applaudissements sur quelques bancs du groupe RE.)</italique> Avec ce projet de loi de ratification du traité du Quirinal, nous formalisons le lien d’amitié ancien et profond entre la France et l’Italie, deux sœurs latines qui partagent une histoire animée. La relation franco-italienne a survécu à de nombreux malentendus – vous l’avez rappelé, monsieur le président –, de la présidence du général de Gaulle à la récente alliance de la carpe et du lapin entre le Mouvement 5 étoiles et la Ligue du Nord, qui a provoqué, en 2019, une crise diplomatique particulièrement grave.<br/>Fort heureusement, le lien entre la France et l’Italie ne peut être brisé facilement et s’est même raffermi au cours des dernières années. Ce traité en est la traduction concrète. C’est par l’action conjointe du Président de la République Emmanuel Macron et du président du Conseil italien Mario Draghi, qu’a été scellée la pérennité des convergences de vues et d’actions entre nos deux pays.<br/>Une communauté de vue ancienne nous unit, comme en témoigne notre adhésion conjointe à la CECA en 1950, puis la signature du Traité de Rome en 1957, mais aussi, plus récemment – je tiens à le rappeler – l’adoption du plan de relance européen et les 800 milliards d’euros déployés sur la période allant de 2021 à 2026, pour lequel la France et l’Italie ont été moteurs. C’est d’une initiative du Président de la République Emmanuel Macron et de l’ancien président du Conseil italien Giuseppe Conte qu’est né, en 2020, ce plan de relance ambitieux. Sans l’activisme de Paris et de Rome – nous pouvons sans doute nous accorder sur ce point –, il n’aurait probablement jamais vu le jour.<br/>Vous l’avez rappelé, madame la secrétaire d’État, nous gravons dans le marbre cette coopération historique, qui aurait mérité de faire l’objet d’un tel traité depuis fort longtemps.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085275" ordre_absolu_seance="92" id_acteur="PA721608" id_mandat="PM797790" id_nomination_oe="-1" id_nomination_op="PM801809" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841344" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Louis Bourlanges</nom>
+              <id>721608</id>
+              <qualite>président de la commission des affaires étrangères</qualite>
+            </orateur>
+          </orateurs>
+          <texte stime="3660.00">Oui !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085276" ordre_absolu_seance="93" id_acteur="PA721722" id_mandat="PM797502" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841345" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Hadrien Ghomi</nom>
+              <id>721722</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3752.05">Seule l’Allemagne, avec le traité de l’Élysée de 1963 et sa récente actualisation en 2019, avait sanctuarisé sa relation avec notre pays. C’est donc, comme vous l’avez tous rappelé, un texte historique qui nous est présenté.<br/>Les ambitions convergentes intergouvernementales que met en œuvre ce traité permettront une plus grande complémentarité dans nos relations diplomatiques, culturelles et économiques. L’Italie est un allié stratégique, avec qui nous partageons de nombreux objectifs communs aux niveaux régional, européen et international. Notre participation conjointe à l’Union pour la Méditerranée et au Sommet des deux rives, et le partenariat stratégique de 2006 dans le cadre de la relation bilatérale de défense franco-italienne sont autant de manifestations d’une ambition commune.<br/>Ce traité témoigne de notre volonté d’intensifier nos efforts afin d’œuvrer ensemble pour plus de prospérité et de paix. Vous l’avez précisé, madame la secrétaire d’État, l’épidémie de covid-19 et l’éclatement de la guerre en Ukraine nous ont rappelé que ce n’était qu’en travaillant étroitement avec nos alliés que nous pourrons surmonter les crises à venir. Par ailleurs, pour construire ensemble cet avenir européen, il convient de définir ce qui nous unit, ce qui nous rassemble. C’est d’ailleurs en affirmant les valeurs consubstantielles à notre destin commun, la solidarité comme la subsidiarité, que nous consoliderons l’Europe.<br/>Sur les plans culturel, éducatif et scientifique, notre coopération est également une force. Sans détailler tout ce que la France doit à la Renaissance, dont l’humanisme nous inspire toujours, les activités d’institutions – vous l’avez évoqué, madame la rapporteure – aussi prestigieuses que la Villa Médicis ou l’École française de Rome témoignent de la force des liens culturels qui nous unissent. Dans le domaine éducatif, le réseau d’enseignement français, les trente-sept Alliances françaises et le dispositif Erasmus concourent au rapprochement de nos jeunesses. Dans le domaine scientifique, l’Italie est le quatrième partenaire de la France dans le cadre du programme européen Horizon 2020. Ce texte réaffirme également notre souhait de développer les liens économiques avec notre troisième partenaire commercial.<br/>Enfin, il convient de souligner que la crise politique que traverse actuellement l’Italie ne saurait nullement remettre en cause un tel traité. Au contraire, elle conforte toute l’importance de celui-ci afin de pérenniser, sur le long terme, notre relation d’amitié et d’assurer notre avenir commun.<br/>Les députés du groupe Renaissance et, je l’espère, l’ensemble des députés présents au sein de cet hémicycle, saluent le traité qui nous est présenté et qui constitue une véritable pierre angulaire de notre lien avec la nation italienne, dont l’histoire est si étroitement liée à la nôtre. Madame la secrétaire d’État, nous le soutiendrons évidemment et nous nous prononcerons en sa faveur, en lui souhaitant le même succès qu’à celui de l’Élysée. <italique>(Applaudissements sur les bancs des groupes RE et Dem, ainsi que sur le banc de la commission.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="Mme Marine Hamelet" id_acteur="PA795900" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM797745">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085281" ordre_absolu_seance="99" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841350" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3926.74">La parole est à Mme Marine Hamelet.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085282" ordre_absolu_seance="100" id_acteur="PA795900" id_mandat="PM797745" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841351" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marine Hamelet</nom>
+              <id>795900</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3950.29">La majorité minoritaire du groupe Renaissance a une caractéristique qui lui est propre et qui est presque sa marque de fonctionnement : transformer systématiquement l’or en plomb. Vous nous proposez aujourd’hui un traité d’amitié avec l’Italie : au premier abord, rien de plus séduisant. Comment ne pas se réjouir d’un rapprochement avec un pays cousin de la France, historiquement et culturellement si proche de nous, et dont l’histoire et la destinée nous sont si communes ? Comment affirmer que cette initiative ne serait pas la bienvenue, alors que nous avons tant à partager avec ce peuple frère et que, dans ce siècle incertain, nous avons tant à construire avec lui ?<br/>Tout d’abord, un mot sur la méthode : nous nous réjouissons <italique>a priori </italique>de son caractère bilatéral. On le constate, vous avez ressenti le besoin – on ne peut vous en faire le reproche – de sortir de la vision européiste. En nous présentant un traité de pays à pays, vous démontrez <italique>de facto</italique> combien la vision d’un multilatéralisme obligatoire est carcérale et antinaturelle. <italique>(Exclamations</italique> <italique>sur les bancs du groupe RE.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085284" ordre_absolu_seance="102" id_acteur="PA720772" id_mandat="PM797169" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841353" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Bru</nom>
+              <id>720772</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="3997.28">Rien à voir avec le sujet !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085285" ordre_absolu_seance="103" id_acteur="PA795900" id_mandat="PM797745" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841354" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marine Hamelet</nom>
+              <id>795900</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4014.73">Pour que de vieilles nations comme la France et l’Italie – dont l’histoire a vu leurs destins s’entremêler depuis deux mille ans – se parlent, il n’est pas besoin de l’intercession des commissaires gris de Bruxelles. Nous aurions été heureux de voir que ce traité marque une sorte d’inflexion salutaire du dogme du multilatéralisme. Nous aurions aimé constater une validation du bilatéralisme, c’est-à-dire un rapport entre les nations sans intermédiaire, indépendant de toute tutelle malvenue, sans ingérence inutile et sans ce paternalisme bruxellois, humiliant pour des nations adultes comme les nôtres.<br/>Vous aviez en effet l’occasion de vous affranchir de ces méthodes dictées par une Commission européenne qui veut tout contrôler. Les références systématiques à la puissance tutélaire de l’Union Européenne semblent reléguer ce traité à un accord entre régions d’un État européen. Vous fixez, par exemple, comme objectif commun de faire émerger la règle de la majorité en Europe. C’est une marque de soumission.<italique> (Exclamations sur les bancs du groupe RE.)</italique> En effet, la règle de la majorité est une nouvelle atteinte à la souveraineté des nations ; seul le respect de l’unanimité garantit aux nations de pouvoir défendre leurs intérêts. <italique>(Applaudissements sur les bancs du groupe RN.)</italique><br/>Ainsi, ce traité est davantage européiste que bilatéral. Il n’est, en fait, que le prétexte à faire avancer l’agenda de la Commission européenne, qui fonctionne par la technique des petits pas et du cliquet : tout ce qui est acquis est acquis ; tout retour en arrière est interdit. Il est hors de question pour nous, défenseurs du principe des nations, de fixer dans un traité l’objectif de l’abandon, pour un pays membre de l’Union européenne, de la défense de l’intérêt national.<br/>Dans le détail, je n’hésite pas à le reconnaître, ce traité peut ouvrir des pistes de coopération avec l’Italie, que nous ne renions pas <italique>(« Ah ! »</italique> <italique>sur quelques bancs du groupe RE) </italique>et que nous sommes même prêts à approuver ponctuellement. <italique>(Mêmes mouvements.) </italique>Dans cette logique, nous ne pouvons évidemment qu’approuver les échanges entre étudiants, la coopération numérique, la collaboration des moyens de la justice ou de la police pour lutter contre la délinquance transnationale, ou encore tous les rapprochements culturels.<br/>En revanche, un sujet est trop peu développé dans ce traité : l’immigration.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085290" ordre_absolu_seance="108" id_acteur="PA795636" id_mandat="PM797601" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841359" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benjamin Lucas</nom>
+              <id>795636</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4051.97">Ah !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085290" ordre_absolu_seance="109" id_acteur="PA0" id_mandat="-1" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841395" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Plusieurs députés du groupe RE</nom>
+              <id>0</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4085.55">Nous y voilà !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085291" ordre_absolu_seance="110" id_acteur="PA795900" id_mandat="PM797745" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841360" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marine Hamelet</nom>
+              <id>795900</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4153.28">En effet, l’actualité récente nous le montre, avec l’arrivée, il y a quelques jours encore, de plus d’un millier de migrants en Italie. Depuis le 1<exposant>er</exposant> janvier, plus de 34 000 personnes y sont arrivées illégalement par mer.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085292" ordre_absolu_seance="111" id_acteur="PA794598" id_mandat="PM797010" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841361" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Laurent Jacobelli</nom>
+              <id>794598</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4160.67">Absolument !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085292" ordre_absolu_seance="112" id_acteur="PA795636" id_mandat="PM797601" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841443" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Benjamin Lucas</nom>
+              <id>795636</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4161.44">Vous préférez les laisser crever ? Quelle honte !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085293" ordre_absolu_seance="113" id_acteur="PA795900" id_mandat="PM797745" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841362" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme Marine Hamelet</nom>
+              <id>795900</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4165.43">Parce que ce texte est teinté de multilatéralisme, vous comprendrez qu’il est pour nous impossible de le voter. Il est corrompu par une idéologie qui va à l’encontre des intérêts nationaux de la France. <italique>(Applaudissements sur les bancs du groupe RN.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Gabriel Amard" id_acteur="PA794906" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM797187">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085297" ordre_absolu_seance="114" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841688" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4181.39">La parole est à M. Gabriel Amard.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085298" ordre_absolu_seance="115" id_acteur="PA794906" id_mandat="PM797187" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841367" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gabriel Amard</nom>
+              <id>794906</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4197.17">Nicolas Machiavel, diplomate lors de la République de Florence, pensait la politique et le pouvoir d’abord en termes d’opportunité, de bon moment – de ce qu’il appelait la <italique>fortuna</italique>. Le bon dirigeant devait savoir saisir l’opportunité à son avantage. Notre assemblée est appelée à ratifier le traité du Quirinal. Nous nous réjouissons de la conclusion d’un traité de coopération avec l’Italie. Nos deux pays connurent des périodes de conflits, qualifiées tantôt de tours de valse, tantôt de coups de théâtre sanglants, comme le rappelle Olinda Giunchi, universitaire lyonnaise, fondatrice de la société Dante Alighieri.<br/>Nos relations avec l’Italie furent aussi fructueuses. Je citerai trois exemples. Leonardo da Vinci a fini sa vie sur les bords de Loire, protégé par François 1<exposant>er</exposant>. Giuseppe Garibaldi a dirigé l’Armée des Vosges et remporté les deux seules victoires françaises, en 1870 et en 1871, contre la Prusse. Depuis le XIX<exposant>e</exposant> siècle, l’immigration italienne en France a été importante et a en partie construit notre beau pays, malgré un racisme anti-italien fort. <italique>(M. Benjamin Lucas s’exclame.)</italique><br/>Mais permettez-moi d’exprimer un doute. Est-il bien opportun de ratifier un traité d’amitié avec l’Italie, qui connaîtra des élections générales en septembre, dont l’issue est incertaine ?</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085301" ordre_absolu_seance="118" id_acteur="PA795540" id_mandat="PM797541" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841370" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Daniel Grenon</nom>
+              <id>795540</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4210.62">Oh là là !</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="4" id_preparation="2085302" ordre_absolu_seance="119" id_acteur="PA794906" id_mandat="PM797187" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841371" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Gabriel Amard</nom>
+              <id>794906</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4303.86">Par ailleurs, quatre problèmes majeurs dans ce traité me conduisent à vous inviter à vous abstenir et à travailler rapidement à un protocole d’accord.<br/>D’abord, le traité prévoit une coopération pour une politique migratoire via un prisme policier. <italique>(Applaudissements sur quelques bancs du groupe LFI-NUPES.) </italique>Il évoque même des partenariats avec les pays de transit. Parle-t-on de la Libye, où des passeurs ont rétabli l’esclavage ? Ce traité aurait pu proposer une opération de sauvetage conjointe des migrants, comme le programme Mare nostrum. <italique>(Applaudissements sur les bancs des groupes LFI-NUPES et Écolo-NUPES.)</italique> Il n’en est rien !<br/>Combien de temps allons-nous supporter l’offense de ce symbole lugubre que la mer Méditerranée renvoie au monde ? La Méditerranée est devenue un cimetière. À mon tour, je rends hommage à l’humanité de ces femmes et de ces hommes protectrices et protecteurs des migrants. <italique>(Applaudissements sur les bancs des groupes LFI-NUPES et Écolo-NUPES.) </italique>Je pense en cet instant à l’Italien Emilio Scalzo qui subit un procès-bâillon.<br/>Ensuite, ce traité manque de précision sur la coopération militaire et sur l’industrie de l’armement. Or, en Libye, nos deux pays étaient concurrents et soutenaient des forces opposées. Au Sahel, les opérations militaires prennent fin ou se réorganisent. De même, allons-nous continuer à vendre des armes à l’Arabie saoudite et aux Émirats arabes unis qui mènent une féroce guerre au Yémen, quand l’Italie a décidé de renoncer à l’exportation de missiles vers ces deux pays ? <italique>(Mêmes mouvements.)</italique><br/>Par ailleurs, le traité cache mal le manque d’ambition écologique de nos deux pays. Nous avons en partage avec l’Italie les Alpes et la Méditerranée. Mais aucune initiative forte ni aucun cadre nouveau ne sont prévus dans le traité pour enrayer les effets désastreux du changement climatique que ces deux écosystèmes subissent.<br/>Enfin, le traité ne doit pas être le cheval de Troie du projet ferroviaire Lyon-Turin. Le Gouvernement Conte n’en voulait pas ; Élisabeth Borne, alors ministre chargée des transports, annonçait une pause. Mais le projet est mentionné. Or il prévoit le long de son tracé d’excaver et de forer dans les captages d’eau à usage domestique. C’est interdit par les lois sur l’eau. <italique>(Mêmes mouvements.)</italique> Et la ligne existante, déjà rénovée, peut accueillir l’équivalent de 800 000 poids lourds contre 360 000 prévus pour le projet Lyon-Turin. Nous pouvons soulager tout de suite les habitants des vallées qui subissent les nuisances des camions en utilisant cette ligne existante.<br/>Collègues, travaillons ensemble sans tarder à un protocole d’accord, à valeur juridique, qui clarifie les orientations et renforce le volet écologique. Nous souhaitons un meilleur accord avec nos partenaires italiens.<br/>C’est ce jour l’anniversaire de la reconnaissance par l’ONU, en 2010, de l’accès à l’eau comme un droit fondamental de l’humanité. Comme nous y invite mon ami économiste italien Riccardo Petrella, célébrons donc le droit à l’eau. À l’heure des sécheresses en France et en Italie, ne votons pas un traité dans lequel est évoqué un possible écocide, qui resterait dans l’histoire comme le projet le plus dévastateur pour les réserves d’eau indispensables à nos vies et à celles des générations futures ! <italique>(Mêmes mouvements.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <interExtraction nom_orateur="M. Vincent Seitlinger" id_acteur="PA794410" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM796911">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2085341" ordre_absolu_seance="127" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841490" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4513.70">La parole est à M. Vincent Seitlinger.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2085342" ordre_absolu_seance="128" id_acteur="PA794410" id_mandat="PM796911" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841491" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Seitlinger</nom>
+              <id>794410</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="4534.98">Comme l’a indiqué en commission notre collègue Meyer Habib, député des Français établis hors de France, notamment de ceux qui se trouvent en Italie, le groupe Les Républicains est favorable à la ratification du traité. En tant que député élu dans une circonscription située à la frontière franco-allemande, je connais les bienfaits du traité de l’Élysée pour la relation franco-allemande et nous ne pouvons qu’espérer que le traité du Quirinal sera aussi fécond pour la relation franco-italienne.<br/>Membres fondateurs de l’Union européenne, la France et l’Italie entretiennent des relations particulièrement denses et partagent une riche histoire pluriséculaire. Cette relation historique ancienne est également marquée par des questions irritantes de fond comme l’extradition d’anciens membres des Brigades rouges, les tensions migratoires aux frontières, qui se sont traduites, comme l’a rappelé le président Bourlanges, par une crise diplomatique importante en 2019 avec le rappel pour consultation de l’ambassadeur de France à Rome.<br/>Il n’en demeure pas moins que nos deux pays ont entamé dès la fin de la seconde guerre mondiale une intense relation bilatérale qui a donné lieu à de multiples coopérations dans tous les domaines. Cette coopération s’est essentiellement construite dans le cadre européen en s’appuyant sur les programmes de l’Union européenne. Notre collègue Ghomi l’a souligné, il est même étonnant que nos deux pays aient mis autant de temps pour formaliser une coopération aussi riche dans un traité d’amitié de portée générale. Les négociations entamées en janvier 2018 ont toujours avancé, malgré la crise de 2019, pour s’achever avec le traité signé au palais du Quirinal en novembre 2021.<br/>Ce traité offre surtout un cadre formel de coopération dans une multiplicité de domaines : sécurité, défense, politique migratoire, coopération économique, industrielle et numérique, développement durable, enseignement, culture, sans oublier l’essentielle coopération transfrontalière… À charge pour les gouvernements successifs de nos pays de donner corps à ce nouveau cadre institutionnel.<br/>Les députés du groupe Les Républicains seront particulièrement attentifs aux évolutions de notre politique transfrontalière et au soutien dont elle fera l’objet en ce qui concerne le contrôle de nos frontières dans le sud-est, qui connaissent régulièrement des afflux de migrants difficilement contrôlables, mais aussi, en lien avec les collectivités locales qui soutiennent le projet depuis de nombreuses années, en ce qui concerne le suivi de la bonne avancée de la liaison ferroviaire Lyon-Turin qui doit permettre, entre autres, d’assainir la qualité de l’air de certaines de nos vallées alpines.<br/>Nous souhaitons par ailleurs que le traité contribue à ancrer la vocation méditerranéenne de notre continent, en particulier vers sa rive sud. À cet égard, il faudra veiller, comme l’a rappelé notre collègue Castellani, à renforcer la coopération entre la Corse et l’Italie, en prenant en compte les spécificités insulaires de la Corse. <italique>(Applaudissements sur les bancs du groupe LR et sur quelques bancs des groupes RE et Dem. – M. Michel Castellani applaudit également.)</italique></texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2085348" ordre_absolu_seance="134" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841497" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4725.78">Sur l’article unique, je suis saisie par le groupe Renaissance d’une demande de scrutin public.<br/>Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.<br/>La parole est à Mme Laurence Vichnievsky.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2085350" ordre_absolu_seance="136" id_acteur="PA720704" id_mandat="PM797067" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841499" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Vichnievsky</nom>
+            <id>720704</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="4755.72">Je suis presque aussi émue que le président Bourlanges tout à l’heure, et pour deux raisons : d’abord, une partie de ma famille est italienne – les Slaves se sont mélangés aux Italiens et les résultats ne sont pas si négatifs car l’un de mes enfants termine ses études à l’université Bocconi, à Milan, et l’autre fait les vendanges près de Florence, et j’ai le souvenir de mon fils, à Turin, à la tête d’un bel établissement, le restaurant Del Cambio ; ensuite, nous avons surmonté – et nous en surmonterons d’autres si elles devaient se produire – une crise assez importante que je n’aurais jamais imaginée compte tenu des liens historiques, culturels, économiques qui unissent les deux pays. Et, puisqu’il a été fait allusion aux travaux du groupe d’amitié France-Italie auquel j’appartenais pendant la précédente législature, j’ai également le souvenir de l’accueil assez frais qui nous avait été réservé par nos collègues députés à Rome.<br/>Comme la reine, « je veux » des relations chaleureuses avec ce pays qui nous est étroitement lié depuis des millénaires. La proximité géographique de nos deux pays a fait passer, tout au long de notre histoire commune, des territoires entiers d’une sphère influence à l’autre. Ainsi, au IV<exposant>e</exposant> siècle avant notre ère, à l’époque de Brennus, toute une partie du Nord de l’Italie était occupée par les Gaulois, jusqu’à Trieste et jusqu’à Ancône, et était appelée par les Romains la Gaule cisalpine. Puis, de la conquête de César, au premier siècle avant notre ère, jusqu’au V<exposant>e</exposant> siècle, un demi-millénaire de domination romaine sur la Gaule nous a donné, entre autres, notre langue et notre droit. Et ce n’est qu’en 1860, sous Napoléon III, qu’après le plébiscite des populations concernées, le duché de Savoie et le comté de Nice ont été rattachés à la France.<br/>On a prononcé le nom de Garibaldi. J’ajouterai ceux d’autres Italiens qui ont contribué à l’histoire et à la prospérité de notre pays, et auxquels nous sommes reconnaissants : Leonardo da Vinci, Catherine de Médicis, Mazarin, Gambetta, Modigliani et tant d’autres.<br/>Le traité du Quirinal, je le répète après beaucoup d’autres, c’est d’abord un traité d’amitié et c’est ensuite un traité global qui comble une lacune dans la mesure où de nombreux accords bilatéraux ont été conclus par le passé sans relever d’une approche coordonnée. Voilà qui me fait penser qu’il y a presque trente ans, un premier magistrat de liaison, à l’initiative de la France, a été installé à Rome.<br/>Le projet de loi autorisant la ratification du traité du Quirinal prévoit d’instaurer une coopération bilatérale renforcée, sur laquelle je ne reviendrai pas, les précédents intervenants l’ayant mentionnée. J’insisterai néanmoins sur les mécanismes de concertation qui doivent en assurer la mise en œuvre – n’est-ce pas le concret, après tout, qui nous intéresse ?<br/>Je citerai six domaines de coopération : la politique étrangère, afin de stabiliser la zone de la Méditerranée, occidentale et orientale, et d’améliorer la concertation de nos deux pays pour la défense de positions communes au sein de l’Union européenne et de l’OTAN ; la défense, en particulier en matière spatiale ; la sécurité, tant il est vrai qu’il ne faut pas minimiser l’immigration sachant combien elle reste un sujet de préoccupation pour nos amis italiens compte tenu de leur situation géographique ; l’environnement, qu’on ne défend jamais assez même si nous allons dans le bon sens et qu’il est de toute façon trop tôt pour porter un jugement sur des mécanismes qui ne sont pas encore entrés en vigueur ; une politique agricole qui privilégie la qualité des produits avec une protection accrue des appellations d’origine protégée (AOP) et des indications géographiques protégées (IGP), car la gastronomie est une richesse pour la France mais aussi pour l’Italie ; enfin, une politique de l’éducation et de la culture – rappelons-nous que l’Institut français de Florence est le premier institut culturel français à avoir été créé dans le monde, au début du siècle dernier.<br/>Au moment où l’unité de l’Europe est parfois mise à l’épreuve, nous ne pouvons que souscrire à cette coopération renforcée entre la France et l’Italie. Et s’il faut évoquer l’actualité politique la plus récente, avec les développements survenus en Italie depuis la signature du traité, nous avons l’espoir raisonnable que, quelle que soit l’issue des élections du 25 septembre en Italie, nos pays se retrouveront côte à côte pour défendre la liberté et la souveraineté de l’Ukraine, au sein de l’Union européenne comme au sein de l’OTAN.<br/>Le groupe Démocrate (MODEM et indépendants) votera la ratification. <italique>(Applaudissements sur les bancs des groupes Dem et RE, ainsi que sur les bancs des commissions.)</italique></texte>
+      </paragraphe>
+      <interExtraction nom_orateur="M. Jean-Paul Lecoq" id_acteur="PA335612" id_nomination_oe="-1" id_nomination_op="-1" id_mandat="PM797391">
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2085358" ordre_absolu_seance="144" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_1" sommaire="0" id_syceron="2841507" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5121.67">La parole est à M. Jean-Paul Lecoq.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="5" id_preparation="2085359" ordre_absolu_seance="145" id_acteur="PA335612" id_mandat="PM797391" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841508" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Jean-Paul Lecoq</nom>
+              <id>335612</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5154.61">Chaque traité de coopération renforcée est l’occasion pour les députés du groupe Gauche démocrate et républicaine-NUPES de valoriser l’amitié entre les peuples. Le présent traité servira à structurer et à intensifier les relations entre l’Italie et la France afin que les deux pays s’engagent à travailler mutuellement sur un grand nombre de sujets – tous aussi stratégiques les uns que les autres.<br/>Tout en étant pour l’amitié entre les peuples, on peut s’interroger sur la nature des projets politiques. Ainsi, nous sommes inquiets au plus haut point à l’idée que l’exécutif italien pourrait être de la droite extrême, celle du parti Fratelli d’Italia qui défend des valeurs antirépublicaines voire fascistes. En effet, certains sujets sont bien plus engageants que d’autres.<br/>L’article 1<exposant>er</exposant>, portant sur les affaires étrangères, est intéressant car il propose de créer des consultations renforcées sur plusieurs thèmes. D’ailleurs, la question de l’assemblée parlementaire franco-italienne peut être posée puisqu’existe déjà une assemblée parlementaire franco-allemande – nous attendons donc que le Gouvernement en prenne l’initiative. Mais, comme je vous l’ai dit en commission, on peut s’interroger sur les projets de coopération renforcée entre deux États de l’Union européenne.<br/>Après le traité d’Aix-la-Chapelle avec l’Allemagne, le traité dit du Quirinal, du nom du palais présidentiel italien, crée un nouvel axe, si je puis dire, Paris-Berlin-Rome. Mais pour quels buts ? Va-t-on vers une Europe à deux vitesses où les poids lourds se mettent d’accord en amont sur les grandes décisions pour mieux les imposer aux vingt-quatre autres États de l’Union européenne ? Le projet d’Emmanuel Macron, énoncé en 2017 lors de son discours à la Sorbonne sur l’Union européenne, consistait à créer des convergences de projets en fonction des États européens pour sortir de ce qu’il considérait comme de l’immobilisme. Ne pensez-vous pas que cela pourrait créer une asymétrie et, en définitive, décrédibiliser l’action de ces trois pays ?<br/>Au-delà de ce problème de fond, il convient de souligner que Paris, Rome et Berlin sont des poids lourds de la politique spatiale européenne. L’article 7 du traité du Quirinal y est consacré et, pour avoir mené une mission d’information à la fin de la précédente législature avec notre ancien collègue Pierre Cabaré, il me semble fondamental d’évoquer les divergences en matière de politique industrielle, lesquelles ralentissent la politique spatiale européenne.<br/>La France et l’Italie doivent se rapprocher davantage pour aller de l’avant, car la concurrence internationale est très forte dans le domaine de l’espace. Les États-Unis et la Chine sont les leaders de ce secteur, tandis que l’Union européenne reste un peu à la traîne. À cet égard, la réussite du premier lancement du lanceur italien Vega-C, depuis la base spatiale de Kourou, démontre bien la magnifique coopération franco-italienne.<br/>À la veille du prochain conseil ministériel de l’Agence spatiale européenne, qui se tiendra en novembre à Paris, il serait donc utile de nous appuyer sur ce traité de coopération avec l’Italie afin de mieux définir collectivement – en incluant l’Allemagne – les besoins et les demandes à formuler. Il faut désormais aller vite et fort.<br/>De plus, je l’ai rappelé en commission des affaires étrangères, la France et l’Italie sont partenaires des accords Artemis, menés par les États-Unis en vue de retourner sur la Lune. Or, vous le savez, la question de l’appropriation des ressources lunaires est traitée de manière très ambiguë dans ces accords. Les Américains défendent plutôt une lecture commerciale – vous connaissez leur stratégie –, tandis que les Européens seraient plutôt favorables à une utilisation scientifique et limitée des ressources lunaires, sur le modèle des règles appliquées pour l’Antarctique. Il serait intéressant et important de s’emparer de cette question avec Rome, afin de donner du poids à une lecture faisant la part belle à la découverte scientifique, plutôt qu’aux profits des multinationales.<br/>Enfin, le dernier domaine de la relation franco-italienne, qui m’apparaît aussi comme le plus fondamental, porte sur l’immigration. La frontière montagneuse entre nos deux pays est un cimetière où meurent des femmes, des enfants et des hommes risquant leur vie pour fuir la misère et la guerre. De nombreux rapports d’organisations non gouvernementales et d’organisations issues de la société civile dénoncent la brutalité systémique des polices aux frontières italienne et française. On ne peut laisser mourir dans le froid des êtres humains qui cherchent de l’aide. Ces traitements inhumains doivent immédiatement cesser, tout comme les poursuites en justice contre les femmes et les hommes qui aident les migrants. La France et l’Italie doivent travailler à améliorer le droit d’asile européen et à réformer en profondeur les procédures dites de Dublin. Est-il possible d’inscrire le principe de non-refoulement dans la coopération franco-italienne ?<br/>Si un traité de coopération renforcé est toujours un acte symbolique d’amitié entre les peuples, faisons en sorte qu’il ne devienne pas un traité entre deux peuples qui en excluent d’autres. Nous le voterons : notre devoir est de renforcer l’amitié et, à travers elle, la solidarité internationale. <italique>(Applaudissements sur quelques bancs du groupe RE ainsi que sur les bancs des commissions.)</italique></texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085372" ordre_absolu_seance="155" id_acteur="PA720772" id_mandat="PM797169" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841579" valeur="">
+          <orateurs>
+            <orateur>
+              <nom>M. Vincent Bru</nom>
+              <id>720772</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="5198.30">Très bien !</texte>
+        </paragraphe>
+      </interExtraction>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085373" ordre_absolu_seance="156" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="DISC_GENERALE_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841580" valeur="" bibard="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5452.56">La discussion générale est close.<br/>La parole est à Mme la secrétaire d’État.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085375" ordre_absolu_seance="158" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="1" id_syceron="2841582" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5487.97">Je souhaite répondre aux nombreuses questions que vous avez soulevées et qui ont rendu ces débats – je le crois – constructifs et de qualité. Ces discussions nous permettent d’ailleurs de donner chair à ce traité avec l’Italie de façon concrète et mutuellement bénéfique.<br/>Je tiens à remercier toutes les personnes qui ont exprimé leur soutien à ce traité. Elles sont nombreuses, notamment au sein de la majorité, avec M. Portarrieu du groupe Horizons et apparentés, M. Ghomi du groupe Renaissance, M. Lecoq…</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085377" ordre_absolu_seance="160" id_acteur="PA335612" id_mandat="PM797391" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841584" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5513.88">Pas encore ! <italique>(Sourires.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085378" ordre_absolu_seance="161" id_acteur="PA721608" id_mandat="PM797790" id_nomination_oe="-1" id_nomination_op="PM801809" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841585" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Bourlanges</nom>
+            <id>721608</id>
+            <qualite>président de la commission des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5526.81">C’est le meilleur !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085379" ordre_absolu_seance="162" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841586" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5531.00">Je vous prie de pardonner mon enthousiasme. Je reconnais que vous inclure dans la majorité est un peu prématuré. <italique>(Sourires.)</italique><br/>Quoi qu’il en soit, j’essaierai de répondre à vos questions en suivant l’ordre dans lequel elles ont été formulées, en commençant par celle relative aux brigadistes italiens condamnés dans leur pays. Il est vrai que la décision de la cour d’appel de Paris relative la demande d’extradition formulée à leur endroit a suscité, et nous le comprenons, une immense émotion au-delà des Alpes. Je crois que nous comprenons tous le sentiment des familles des victimes, mais la cour d’appel s’est prononcée de manière indépendante et nous prenons acte de sa décision. La justice continue de suivre son cours, avec le pourvoi en cassation formé par le parquet, et nous y serons attentifs.<br/>Je tiens à rappeler que le traité du Quirinal n’en a pas moins été ratifié à une très large majorité par le parlement italien – Mme la rapporteure l’a dit –, et ce quelques jours seulement après que la cour d’appel a rendu sa décision. Cela démontre que les forces politiques italiennes ont, pour la plupart d’entre elles, fait la part des choses entre une décision indépendante de la justice et la position du Gouvernement.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085382" ordre_absolu_seance="165" id_acteur="PA720772" id_mandat="PM797169" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841589" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Vincent Bru</nom>
+            <id>720772</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5591.77">Très bien !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085383" ordre_absolu_seance="166" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841590" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5616.85">Ensuite, vous avez été nombreux à évoquer les questions environnementales, qui nous sont chères, et particulièrement le chantier de la ligne Lyon-Turin. J’essaierai de répondre de façon précise aux éléments qui ont été soulevés.<br/>Tout d’abord, et il s’agit d’un point très important, sur les 40 millions de tonnes de marchandises qui traversent annuellement les Alpes franco-italiennes, plus de 90 % le font par la route. La nouvelle ligne ferroviaire Lyon-Turin, qui disposera justement d’un potentiel de 40 millions de tonnes de fret, a pour objectif d’opérer un report modal significatif de la route vers le rail, et ainsi de réduire la pollution due au trafic routier dans les vallées alpines. <italique>(Applaudissements sur les bancs des groupes RE et Dem.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085385" ordre_absolu_seance="168" id_acteur="PA721608" id_mandat="PM797790" id_nomination_oe="-1" id_nomination_op="PM801809" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841592" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Louis Bourlanges</nom>
+            <id>721608</id>
+            <qualite>président de la commission des affaires étrangères</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5658.85">Voilà la solution !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085386" ordre_absolu_seance="169" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841593" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5668.07">En ce qui concerne la conformité du projet avec la réglementation relative à l’eau, dont vous avez aussi parlé, depuis 1995, nous surveillons les eaux souterraines et superficielles, s’agissant aussi bien de leur niveau, de leur débit, que de leur qualité. Nous vous assurons donc que les éventuelles perturbations liées aux travaux ne nous font pas franchir les limites fixées par la réglementation. <italique>(M. Gabriel Amard s’exclame.)</italique><br/>Troisième élément : vous avez raison, le projet nécessite des investissements très importants. C’est pour cette raison que la construction des accès au tunnel sous les Alpes sera progressive et cohérente avec l’évolution attendue des trafics entre la France et l’Italie.<br/>Il est également vrai, comme vous l’avez dit, que les aménagements de la ligne existante Dijon-Modane, qui emprunte le tunnel historique du Mont-Cenis, permettront déjà de porter la capacité de fret de 3 à 16,8 millions de tonnes.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085389" ordre_absolu_seance="172" id_acteur="PA794906" id_mandat="PM797187" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841596" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Gabriel Amard</nom>
+            <id>794906</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5717.14">Pourquoi ?</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085390" ordre_absolu_seance="173" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841597" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="5736.15">Quant aux voies nouvelles, nous sommes en train d’étudier les différentes options existantes, en lien avec les acteurs locaux.<br/>Du point de vue général, je rappelle que le traité du Quirinal est un cadre, une enveloppe à laquelle nous devrons donner chair, entre gouvernements, entre sociétés civiles et entre parlementaires.<br/>À cet égard, toujours dans le domaine de l’environnement, je tiens à évoquer la coopération étroite qui lie, vous le savez, nos deux pays et nos collectivités en ce qui concerne les espaces naturels que nous avons en commun – coopération que nous devons évidemment encourager et renforcer. L’espace Mont-Blanc en est un bon exemple, étant donné qu’il concerne la Savoie et la Haute-Savoie pour la France, la Vallée d’Aoste pour l’Italie et le canton du Valais pour la Suisse. Ainsi nos collectivités coopèrent-elles avec leurs voisines italienne et suisse pour protéger et valoriser un territoire que nous nous accordons tous à qualifier d’exceptionnel.<br/>De la même manière, c’est une initiative conjointe franco-italienne qui a permis de faire labelliser par l’UNESCO les parcs naturels du Queyras et du mont Viso en tant que réserve de biosphère, tandis que le parc national du Mercantour et le parc naturel des Alpes maritimes ont déposé une seule et même candidature en vue d’être inscrits au patrimoine mondial de l’humanité. Je pourrais citer d’autres exemples, entre autres dans le domaine maritime, mais vous reconnaîtrez que notre coopération en matière d’environnement bénéficie d’un très beau départ.<br/>Monsieur Castellani, vous avez évoqué la Corse, ce qui me permet de rappeler que si le traité du Quirinal porte sur le territoire frontalier terrestre, il concerne également, dans un esprit inclusif, les zones maritimes. Nous partageons avec l’Italie non seulement les objectifs environnementaux que je viens de décrire, mais aussi une même volonté d’opérer un développement économique soutenable au sein de l’espace méditerranéen. Cela se traduit déjà par des coopérations transfrontalières concrètes, telles que le programme Interreg Italie-France Maritime ou, dans le domaine de la lutte contre les pollutions marines, l’accord tripartite RAMOGE – dont Monaco est également partie prenante. Et comme l’a dit Mme la rapporteure en commission, nous comptons sur vous pour donner corps à cette coopération en Corse.<br/>J’en viens maintenant à la question de la coopération franco-italienne en matière de migrations : vous êtes plusieurs à en avoir parlé. Je serai franche, j’ai entendu les réticences de certains mais aussi, assez souvent, des contradictions. Je rappelle qu’il existe des règles européennes en matière d’asile et de migration et que la première d’entre elles est la responsabilité de l’État membre de première entrée dans l’examen des demandes d’asile. Cela étant, la deuxième règle, qui va de pair avec la première, est celle de la solidarité. Voilà pourquoi il y a des transferts entre la France et l’Italie. Il s’agit d’un autre domaine de coopération et de la condition <italique>sine qua non </italique>de la préservation de l’espace Schengen, auquel nous sommes tous attachés.<br/>J’insiste : faut-il laisser à l’Italie la charge exclusive de l’examen des demandes d’asile ? Bien sûr que non. C’est justement pour cette raison que nous sommes favorables à une solidarité ambitieuse entre nos deux pays, objet de la première phase du pacte sur la migration et l’asile de la Commission européenne, et acquis de la PFUE, dont nous avons amplement parlé ce matin.<br/>Monsieur Lecoq, vous avez évoqué la coopération franco-italienne en matière spatiale. Cette coopération préexiste au traité du Quirinal et s’avère un moteur pour l’action européenne dans ce domaine, qu’elle ait lieu dans le cadre de l’Union européenne – n’en déplaise à Mme Hamelet – ou sous l’égide de l’Agence spatiale européenne, que vous avez mentionnée.<br/>Je précise que la coopération franco-italienne dans le domaine spatial est particulièrement décisive s’agissant des lanceurs. Nos deux pays s’emploient en effet à constituer une gamme complète de lanceurs européens de nouvelle génération, avec Ariane 6 et Vega-C, qui ont des segments précis et qui sont complémentaires.<br/>La coopération industrielle avec l’Italie est également fructueuse en ce qui concerne les satellites – nous restons dans l’espace –, les joint-ventures Thales Alenia Space et Telespazio ayant fondé la Space Alliance.<br/>Dans le domaine des lanceurs, j’ajoute que l’émergence de champions européens relève d’un intérêt commun, dans la mesure où ils permettront d’assurer une autonomie européenne dans l’accès à l’espace et dans l’opération des activités en orbite, et de maintenir notre compétitivité dans l’exportation de satellites.<br/>Notons que les relations institutionnelles sont denses entre nos deux pays, qu’il s’agisse – mais vous le savez – du partenariat entre le CNES – Centre national d’études spatiales – et l’Agence spatiale italienne, ou de celui liant le ministère français des armées au ministère italien de la défense. À cet égard, il est vrai que le prochain conseil ministériel de l’Agence spatiale européenne, qui aura lieu en novembre, sera très important. Je ne sais pas si nous irons jusque sur la Lune mais, croyez-moi, notre coopération spatiale est étroite et nous emmènera loin.<br/>Madame Hamelet, vous vous êtes, en ce qui vous concerne, érigée en égérie du bilatéralisme, faisant du traité du Quirinal l’exemple d’une méthode prétendument souhaitable. Or, cela ne vous a pas complètement échappé, le cadre et l’horizon de nos liens avec l’Italie sont bien l’Europe. Madame la députée, qu’est-ce qui renforce l’amitié franco-italienne ? L’Europe – même si j’ai compris que cela vous dérangeait. De quelle manière créons-nous le service civique franco-italien ? En nous appuyant sur le corps européen de solidarité. Comment démultiplions-nous les programmes de recherche entre nos deux pays ? Grâce au programme Horizon Europe. Comment les enfants de Mme Vichnievsky peuvent-ils aller étudier en Italie à des tarifs raisonnables ? Grâce à l’Europe et au programme Erasmus.<br/>Oui, l’Europe est au service de l’amitié entre nos peuples, et l’amitié entre nos peuples est au service de l’Europe. <italique>(Applaudissements sur les bancs des groupes RE et Dem ainsi que sur les bancs des commissions.)</italique></texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="6" id_preparation="2085405" ordre_absolu_seance="187" id_acteur="PA794322" id_mandat="PM796851" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841612" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Thomas Ménagé</nom>
+            <id>794322</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="5848.48">N’importe quoi !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085199" ordre_absolu_seance="188" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841281" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6159.25">Enfin, j’ai également entendu des doutes s’exprimer sur les alternances éventuelles qui rythment la vie politique interne des États. Vous conviendrez avec moi qu’il ne faut pas préjuger du résultat des élections.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085200" ordre_absolu_seance="189" id_acteur="PA335612" id_mandat="PM797391" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841282" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Jean-Paul Lecoq</nom>
+            <id>335612</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6173.81">Vous êtes bien placée pour le savoir !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085201" ordre_absolu_seance="190" id_acteur="PA719558" id_mandat="PM796554" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="INTERRUPTION_1_10" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841283" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>M. Erwan Balanant</nom>
+            <id>719558</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6175.19">Nous avons gagné les élections, camarade Lecoq, il ne me semble pas que Mélenchon soit Premier ministre !</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085202" ordre_absolu_seance="191" id_acteur="PA801874" id_mandat="-1" id_nomination_oe="PM801924" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="PAROLE_1_2" sommaire="0" id_syceron="2841284" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Laurence Boone</nom>
+            <id>801874</id>
+            <qualite>secrétaire d’État</qualite>
+          </orateur>
+        </orateurs>
+        <texte stime="6178.62">Surtout, quels que soient l’issue de ces respirations démocratiques et le verdict des urnes, la continuité doit prévaloir car c’est par elle que l’amitié peut s’enraciner, et l’amitié franco-italienne est chère à tous nos cœurs. Voilà les principes sur lesquels se bâtit le droit international. Dans le contexte actuel si tragique, il importe vraiment que nous en soyons garants. Nous nouerons des pactes et des traités que nous respecterons.<br/>Je vous remercie tous de ce débat et vous rappelle que ce traité entre la France et l’Italie aura de la chair, celle que nous lui donnerons au sein de l’Europe. <italique>(Applaudissements sur les bancs des groupes RE, Dem et HOR.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085204" ordre_absolu_seance="193" code_grammaire="DISC_ARTICLES_1_2" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2841286" valeur="">
+      <orateurs/>
+      <texte>Explication de vote</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085205" ordre_absolu_seance="194" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841287" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6212.03">La parole est à Mme Sandrine Rousseau, pour une explication de vote.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085206" ordre_absolu_seance="195" id_acteur="PA795076" id_mandat="PM797289" id_nomination_oe="-1" id_nomination_op="-1" code_grammaire="PAROLE_GENERIQUE" code_style="NORMAL" code_parole="" sommaire="1" id_syceron="2841288" valeur="">
+        <orateurs>
+          <orateur>
+            <nom>Mme Sandrine Rousseau (Écolo-NUPES)</nom>
+            <id>795076</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6215.04">Nous voterons le projet de loi ratifiant ce traité d’amitié, mais nous le ferons malgré le Gouvernement.<br/>Je précise à nos concitoyens et concitoyennes qui nous regardent que la ligne ferroviaire entre Lyon et Turin ne figure pas dans le traité, alors que vous venez d’en faire grande publicité. Le texte ne prévoit qu’un renforcement de la coopération des réseaux ferroviaires entre l’Italie et la France, ce que nous approuvons contrairement au Lyon-Turin – un projet auquel nous ne cesserons de nous opposer.<br/>Par ailleurs, le traité de coopération bilatérale renforcée avec l’Italie ne durcit en aucun cas les règles migratoires entre nos deux pays. Espérons que la coopération que vous avez évoquée ne soit pas à l’image de l’<italique>Aquarius</italique>, navire de sauvetage de migrants que nous avons refusé d’accueillir dans nos ports ; faisons au contraire en sorte que ce traité renforce la politique migratoire. <italique>(Applaudissements sur les bancs du groupe Écolo-NUPES.)</italique></texte>
+      </paragraphe>
+    </point>
+    <point nivpoint="2" valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085208" ordre_absolu_seance="198" code_grammaire="VOTE_ENS_PJL_S_1_10" code_style="Sous-tit_p_cap" code_parole="" sommaire="1" id_syceron="2841290" valeur=" (n[[o]] 152)">
+      <orateurs/>
+      <texte>Vote sur l’article unique</texte>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085209" ordre_absolu_seance="199" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="VOTE_ENS_PJL_S_2_20" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841291" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6227.82">Je mets aux voix, dans le texte de la commission, l’article unique du projet de loi.</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085210" ordre_absolu_seance="200" code_grammaire="VOTE_ENS_PJL_S_2_30" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2841292" valeur="">
+        <orateurs/>
+        <texte>
+          <italique>(Il est procédé au scrutin.)</italique>
+        </texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085211" ordre_absolu_seance="201" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="VOTE_ENS_PJL_S_2_40" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841293" valeur="" roledebat="president">
+        <orateurs>
+          <orateur>
+            <nom>Mme la présidente</nom>
+            <id>720908</id>
+            <qualite/>
+          </orateur>
+        </orateurs>
+        <texte stime="6340.16">Voici le résultat du scrutin :<br/>        Nombre de votants                        105<br/>        Nombre de suffrages exprimés                68<br/>        Majorité absolue                        35<br/>                Pour l’adoption                68<br/>                Contre                0</texte>
+      </paragraphe>
+      <paragraphe valeur_ptsodj="1" ordinal_prise="7" id_preparation="2085212" ordre_absolu_seance="202" code_grammaire="VOTE_ENS_PJL_S_2_50" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2841294" valeur="" decision="">
+        <orateurs/>
+        <texte>
+          <italique>(L’article unique est adopté, ainsi que le projet de loi.)<br/> (Applaudissements sur les bancs des groupes RE, Dem et HOR.)</italique>
+        </texte>
+      </paragraphe>
+    </point>
+    <finSeance>
+      <point nivpoint="1" valeur_ptsodj="2" ordinal_prise="7" id_preparation="2085214" ordre_absolu_seance="204" code_grammaire="FIN_SEAN_1_2" code_style="Titre" code_parole="" sommaire="1" id_syceron="2841296" valeur="">
+        <orateurs/>
+        <texte>Ordre du jour de la prochaine séance</texte>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2085215" ordre_absolu_seance="205" id_acteur="PA720908" id_mandat="PM797556" id_nomination_oe="-1" id_nomination_op="PM801147" code_grammaire="FIN_SEAN_2_1" code_style="NORMAL" code_parole="" sommaire="0" id_syceron="2841297" valeur="" roledebat="president">
+          <orateurs>
+            <orateur>
+              <nom>Mme la présidente</nom>
+              <id>720908</id>
+              <qualite/>
+            </orateur>
+          </orateurs>
+          <texte stime="6346.22">Prochaine séance, mardi 2 août, à quinze heures :<br/>Questions au Gouvernement ;<br/> Déclaration du Gouvernement sur le projet de programme de stabilité 2022-2027, suivie d’un débat.<br/>La séance est levée.</texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2085216" ordre_absolu_seance="206" code_grammaire="FIN_SEAN_2_4" code_style="Info Italiques" code_parole="" sommaire="0" id_syceron="2841298" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>(La séance est levée à seize heures trente-cinq.)</italique>
+          </texte>
+        </paragraphe>
+        <paragraphe valeur_ptsodj="2" ordinal_prise="7" id_preparation="2085217" ordre_absolu_seance="207" code_grammaire="FIN_SEAN_2_5" code_style="Signature droite" code_parole="" sommaire="0" id_syceron="2841299" valeur="">
+          <orateurs/>
+          <texte>
+            <italique>Le directeur des comptes rendus</italique>
+            <br/>
+            <italique>Serge Ezdra</italique>
+          </texte>
+        </paragraphe>
+      </point>
+    </finSeance>
+  </contenu>
+</compteRendu>
