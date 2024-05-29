@@ -1,22 +1,14 @@
-from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
+import os
+from pymilvus import MilvusClient
+from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 from langchain.vectorstores.milvus import Milvus
-from langchain_community.embeddings.jina import JinaEmbeddings
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
 from langchain_community.llms import Ollama
 from langchain import hub
-from langchain_experimental.text_splitter import SemanticChunker
-
-
-import os
-from dotenv import load_dotenv
-
-
-load_dotenv()
-JINA_AI_API_KEY = os.getenv("JINA_AI_API_KEY")
 
 path_pdfs = "data/pdfs/"
 documents = []
@@ -27,8 +19,6 @@ for file in os.listdir(path_pdfs):
         documents.extend(loader.load())
 
 
-from pymilvus import MilvusClient
-
 client = MilvusClient()
 if client.has_collection("LangChainCollection"):
     client.drop_collection("LangChainCollection")
@@ -36,12 +26,7 @@ if client.has_collection("LangChainCollection"):
 
 embeddings = HuggingFaceEmbeddings(model_name="jinaai/jina-embeddings-v2-base-de")
 
-# embeddings = JinaEmbeddings(
-#     jina_api_key=JINA_AI_API_KEY, model_name="jina-embeddings-v2-base-de"
-# )
-
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
-# text_splitter = SemanticChunker(embeddings)
 all_splits = text_splitter.split_documents(documents)
 
 vectorstore = Milvus.from_documents(
